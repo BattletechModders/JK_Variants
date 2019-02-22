@@ -1,0 +1,17 @@
+{
+    "Name": "Z_JK_VariantsCampaign_JumpJets",
+    "Enabled": false,
+
+    "OptionallyDependsOn": [ "cfixes", "BattletechPerformanceFix", "CommunityBundles", "LC_SLDFRoyal_DLC", "LC_SLDFRoyal_Addon", "LC_SLDFRoyal_WR", "LC_SLDFRoyal_Unique", "BT_Extended_3025" , "BT_Extended_3025_Plus", "JK_VariantsCAB", "JK_VariantsStarLeague", "JK_VariantsDLC", "JK_VariantsCampaign" ],
+
+	"Version": "1.4.0.4",
+	"PackagedOn": "2019-02-20T09:45:00Z",
+    "Description": "Edits 320+ 'Mechs to have lore based Jump Jet limitations",
+    "Author": "Sondra1408 & Justin Kase & Don Zappo",
+    "Website": "https://www.nexusmods.com/battletech/mods/18",
+    "Contact": "message me at Nexus or Paradox sites",
+	
+	"Manifest": [
+		{ "Type": "ChassisDef", "Path": "chassis", "ShouldMergeJSON": true, "AddToDB": false }
+    ]
+}
