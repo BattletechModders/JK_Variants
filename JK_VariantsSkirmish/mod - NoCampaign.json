@@ -1,0 +1,16 @@
+{
+    "Name": "JK_VariantsSkirmish",
+    "Enabled": true,
+
+	"Version": "1.4.0.4",
+	"PackagedOn": "2019-02-20T09:45:00Z",
+    "Description": "Adds 10 'Mech Variants - usable in Skirmish mode.",
+    "Author": "GenTask's Unique Variants - modified for use with JK_Variants Mod",
+    "Website": "https://www.nexusmods.com/battletech/mods/18",
+    "Contact": "message me at Nexus or Paradox sites",
+	
+	"Manifest": [
+		{ "Type": "ChassisDef", "Path": "chassis", "AddToDB": false },
+		{ "Type": "MechDef", "Path": "mech", "AddToDB": false }
+    ]
+}
