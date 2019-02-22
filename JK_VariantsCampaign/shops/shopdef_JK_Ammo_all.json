@@ -1,0 +1,23 @@
+{
+   "ID" : "shopdef_JK_Ammo_all",
+   "RequirementTags" : {
+      "items" : [
+      ],
+      "tagSetSourceFile" : ""
+   },
+   "ExclusionTags" : {
+      "items" : [
+		"planet_other_empty"
+      ],
+      "tagSetSourceFile" : ""
+   },
+   "Inventory" : [
+      {
+         "ID" : "Ammo_AmmunitionBox_Generic_MG_Half",
+         "Type" : "AmmunitionBox",
+         "DiscountModifier" : 1,
+         "Count" : 0
+      }
+   ],
+   "Specials" : []
+}

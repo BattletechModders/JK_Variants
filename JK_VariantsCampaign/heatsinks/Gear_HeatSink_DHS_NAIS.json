@@ -1,0 +1,34 @@
+{
+    "DissipationCapacity" : 3,
+    "Description" : {
+        "Cost" : 630000,
+        "Rarity" : 100,
+        "Purchasable" : false,
+        "Manufacturer" : "Generic",
+        "Model" : "NAIS Experimental",
+        "UIName" : "Heat Sink (X)",
+        "Id" : "Gear_HeatSink_NAIS",
+        "Name" : "NAIS Heat Sink (X)",
+        "Details" : "A prototype version of the old Star League Double Heat Sink developed by NAIS.  They provide additional efficiency to the standard engine mounted Heat Sinks, though with an increased bulkiness. Like standard Heat Sinks, their effectiveness can be impacted by the surrounding environment, positively or negatively.",
+        "Icon" : "uixSvgIcon_equipment_Heatsink"
+    },
+    "BonusValueA" : "- 3 Heat / Turn",
+    "BonusValueB" : "",
+    "ComponentType" : "HeatSink",
+    "ComponentSubType" : "Heatsink",
+    "PrefabIdentifier" : "",
+    "BattleValue" : 0,
+    "InventorySize" : 3,
+    "Tonnage" : 0,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : null,
+    "ComponentTags" : {
+        "items" : [
+            "component_type_lostech",
+			"BLACKLISTED"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}
