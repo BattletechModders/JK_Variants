@@ -3,17 +3,26 @@
         "items": [
             "unit_mech",
             "unit_medium",
-            "unit_release",
+			"unit_release",
+			"unit_dlc",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_dlc"
+			"unit_range_long",
+			"unit_armor_high",
+			"NotDavion",
+			"Kurita",
+			"NotLiao",
+			"NotMarik",
+			"NotSteiner",
+			"NotMagistracyOfCanopus",
+			"NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_crab_CRB-20",
     "HeraldryID": null,
     "Description": {
-        "Cost": 5390000,
+        "Cost": 5490000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "Crab 20s fulfill an oft overlooked role, that of a skirmisher with firepower. Wielding strong energy weapons, the Crab delivers a punch at nearly all ranges, with no ammunition constraints. The blend of firepower, heat efficiency, and speed make the Crab the perfect 'Mech to raid enemy positions.",
         "Icon": "uixTxrIcon_crab"
     },
-    "simGameMechPartCost": 510000,
+    "simGameMechPartCost": 550000,
     "Version": 1,
     "Locations": [
         {

@@ -1,14 +1,14 @@
 {
     "Description" : {
-        "Cost" : 3800000,
+        "Cost" : 3700000,
         "Rarity" : 1,
         "Purchasable" : true,
         "Manufacturer" : "",
         "Model" : "",
         "UIName" : "Hatchetman",
-        "Id" : "chassisdef_hatchetman_HCT-3F",
+        "Id" : "chassisdef_hatchetman_HCT-3X",
         "Name" : "Hatchetman",
-        "Details" : "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.",
+        "Details" : "The Hatchetman -3X further indexes on the stock design's close combat role, adding more armor and replacing its AC10 for an array of SRMs, Lasers, and Anti-Personnel weapons. This is the ultimate melee brawler.",
         "Icon" : "uixTxrIcon_hatchetman"
     },
     "MovementCapDefID" : "movedef_hatchetman_HCT-3F",
@@ -16,9 +16,9 @@
     "HardpointDataDefID" : "hardpointdatadef_hatchetman",
     "PrefabIdentifier" : "chrPrfMech_hatchetmanBase-001",
     "PrefabBase" : "hatchetman",
-    "VariantName" : "HCT-3F",
-    "StockRole" : "Brawler & Skirmisher",
-    "YangsThoughts" : "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.",
+    "VariantName" : "HCT-3X",
+    "StockRole" : "Brawler",
+    "YangsThoughts" : "Someone thought the Hatchetman couldn't kill well enough at arm's length and came up with the -3X. It's brimming with as many short range weapon systems as its well-armored chassis can take. This is truly death at point blank range, Boss. Just watch the heat on this one.",
     "Tonnage" : 45,
     "InitialTonnage" : 16.5,
     "weightClass" : "MEDIUM",
@@ -83,7 +83,22 @@
         {
             "Location" : "LeftTorso",
             "Hardpoints" : [
-                
+                {
+                    "WeaponMount" : "Missile",
+                    "Omni" : false
+                },
+                {
+                    "WeaponMount" : "Missile",
+                    "Omni" : false
+                },
+                {
+                    "WeaponMount" : "AntiPersonnel",
+                    "Omni" : false
+                },
+                {
+                    "WeaponMount" : "AntiPersonnel",
+                    "Omni" : false
+                }
             ],
             "Tonnage" : 0,
             "InventorySlots" : 10,
@@ -106,7 +121,11 @@
             "Location" : "RightTorso",
             "Hardpoints" : [
                 {
-                    "WeaponMount" : "Ballistic",
+                    "WeaponMount" : "AntiPersonnel",
+                    "Omni" : false
+                },
+                {
+                    "WeaponMount" : "AntiPersonnel",
                     "Omni" : false
                 }
             ],

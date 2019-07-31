@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 12200000,
+        "Cost": 13800000,
         "Rarity": 4,
         "Purchasable": false,
         "Manufacturer": "",
@@ -42,7 +42,7 @@
     "EngageRangeModifier" : 0,
     "MechPartMax" : 0,
     "MechPartCount" : 0,
-    "MeleeDamage": 115,
+    "MeleeDamage": 125,
     "MeleeInstability": 90,
     "MeleeToHitModifier": 0,
     "DFADamage": 115,

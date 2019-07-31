@@ -1,20 +1,30 @@
 {
 	"MechTags": {
 		"items": [
-		"unit_mech",
-		"unit_assault",
-		"unit_indirectFire",
-		"unit_release",
-		"unit_role_brawler",
-		"unit_lance_support",
-		"unit_dlc"
+            "unit_mech",
+            "unit_dlc",
+            "unit_assault",
+            "unit_indirectFire", 
+            "unit_range_medium",
+            "unit_armor_low",
+            "unit_hot",
+            "unit_lance_support",
+            "unit_role_sniper",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
 	],
 	"tagSetSourceFile": ""
 	},
 	"ChassisID": "chassisdef_cyclops_CP-10-Z-DC",
 	"HeraldryID": null,
 	"Description": {
-	"Cost": 114600000,
+	"Cost": 16400000,
 	"Rarity": 4,
 	"Purchasable": true,
 	"Manufacturer": null,
@@ -25,7 +35,7 @@
 	"Details": "The preferred command 'Mech of the Capellan Confederation, the CP-10-Z-DC equipped with a Command Console along with the B2000 Command Computer. To free up the weight required to fit this device, the 10-Z-DC reduces its LRM10 to a LRM5. The well supplied AC20 makes the Cycloops  deadly at close range.  With the addition of the B2000 command computer features, this model is prized, but is extremely an extremely rare sight.",
 	"Icon": "uixTxrIcon_cyclops"
 	},
-	"simGameMechPartCost": 1080000,
+	"simGameMechPartCost": 1640000,
 	"Version": 1,
 	"Locations": [
 		{

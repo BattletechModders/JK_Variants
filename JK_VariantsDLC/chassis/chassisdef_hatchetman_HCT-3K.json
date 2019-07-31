@@ -1,26 +1,26 @@
 {
     "Description" : {
-        "Cost" : 3800000,
+        "Cost" : 3600000,
         "Rarity" : 1,
         "Purchasable" : true,
         "Manufacturer" : "",
         "Model" : "",
         "UIName" : "Hatchetman",
-        "Id" : "chassisdef_hatchetman_HCT-3F",
+        "Id" : "chassisdef_hatchetman_HCT-3K",
         "Name" : "Hatchetman",
-        "Details" : "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.",
+        "Details" : "In an effort to mimic and reproduce the Lyran Hatchetman, the HCT-3K was created from captured 3Fs.  This variant removes JumpJet capability while increasing ground speed with a larger engine.  Unfortunately, the larger engine meant there wasn't a lot of space left on the chassis and the Medium Lasers were downgraded to Smalls.  The rerouted systems and extra space the engine took up meant the energy weapon couplers had to be downgraded to only be able to support Anti-Personnel class weapons.",
         "Icon" : "uixTxrIcon_hatchetman"
     },
-    "MovementCapDefID" : "movedef_hatchetman_HCT-3F",
+    "MovementCapDefID" : "movedef_hatchetman_HCT-3K",
     "PathingCapDefID" : "pathingdef_medium",
     "HardpointDataDefID" : "hardpointdatadef_hatchetman",
     "PrefabIdentifier" : "chrPrfMech_hatchetmanBase-001",
     "PrefabBase" : "hatchetman",
-    "VariantName" : "HCT-3F",
+    "VariantName" : "HCT-3K",
     "StockRole" : "Brawler & Skirmisher",
-    "YangsThoughts" : "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.",
+    "YangsThoughts" : "This one is a bit of a head-scratcher boss, while the increase in speed is a bonus on the 3K variant, the lack of JumpJets makes it less manueverable in many other situations.  Also we lose the ability to mount energy weapons.  On the plus side, the added Small Lasers and potential to mount another in the torso makes this a really potent melee 'Mech.  Though I am shocked the Dracs didn't try to convert the Hatchet into a giant Katana or something.",
     "Tonnage" : 45,
-    "InitialTonnage" : 16.5,
+    "InitialTonnage" : 20.5,
     "weightClass" : "MEDIUM",
     "Heatsinks" : 0,
     "TopSpeed" : 120,
@@ -41,7 +41,7 @@
     "Signature" : 0,
     "Radius" : 5,
     "PunchesWithLeftArm" : false,
-    "MeleeDamage" : 40,
+    "MeleeDamage" : 70,
     "MeleeInstability" : 45,
     "MeleeToHitModifier" : 0,
     "DFADamage" : 55,
@@ -70,8 +70,8 @@
             "Location" : "LeftArm",
             "Hardpoints" : [
                 {
-                    "WeaponMount" : "Energy",
-                    "Omni" : false
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage" : 0,
@@ -108,6 +108,10 @@
                 {
                     "WeaponMount" : "Ballistic",
                     "Omni" : false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage" : 0,
@@ -120,8 +124,8 @@
             "Location" : "RightArm",
             "Hardpoints" : [
                 {
-                    "WeaponMount" : "Energy",
-                    "Omni" : false
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage" : 0,

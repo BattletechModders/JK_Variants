@@ -1,14 +1,14 @@
 {
     "Description" : {
-        "Cost" : 3800000,
+        "Cost" : 3500000,
         "Rarity" : 1,
         "Purchasable" : true,
         "Manufacturer" : "",
         "Model" : "",
         "UIName" : "Hatchetman",
-        "Id" : "chassisdef_hatchetman_HCT-3F",
+        "Id" : "chassisdef_hatchetman_HCT-3NH",
         "Name" : "Hatchetman",
-        "Details" : "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.",
+        "Details" : "The Hatchetman 3NH (no Hatchet) is a deviation from the standard Hatchetman concept.  While it retains the appearance of its namesake Hatchet on its right arm, it does not possess the specialized actuators or structural reinforcements of the 3F model and therefore isn't nearly as dangerous to face in melee combat.  It uses the extra space to add 3 additional Heat Sinks and it appears that the designers had intended to allow for Anti-Personnel weaponry to be mounted in the arms, though never followed through with their intentions.  It is still a very under-armored and slow moving 'Mech for its weight class, so it must rely on cover whenever possible..",
         "Icon" : "uixTxrIcon_hatchetman"
     },
     "MovementCapDefID" : "movedef_hatchetman_HCT-3F",
@@ -16,9 +16,9 @@
     "HardpointDataDefID" : "hardpointdatadef_hatchetman",
     "PrefabIdentifier" : "chrPrfMech_hatchetmanBase-001",
     "PrefabBase" : "hatchetman",
-    "VariantName" : "HCT-3F",
+    "VariantName" : "HCT-3NH",
     "StockRole" : "Brawler & Skirmisher",
-    "YangsThoughts" : "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.",
+    "YangsThoughts" : "Interesting concept they have here boss, not sure if it was meant as a deceptive element, being as the 3NH looks just like a standard 3F, but has a bit more heat durability.  Though, if they intended to focus on long range support and not entice the pilot to engage, then I think it might have been better served adding another ton of ammunition.",
     "Tonnage" : 45,
     "InitialTonnage" : 16.5,
     "weightClass" : "MEDIUM",
@@ -41,7 +41,7 @@
     "Signature" : 0,
     "Radius" : 5,
     "PunchesWithLeftArm" : false,
-    "MeleeDamage" : 40,
+    "MeleeDamage" : 70,
     "MeleeInstability" : 45,
     "MeleeToHitModifier" : 0,
     "DFADamage" : 55,
@@ -72,6 +72,10 @@
                 {
                     "WeaponMount" : "Energy",
                     "Omni" : false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage" : 0,
@@ -122,6 +126,10 @@
                 {
                     "WeaponMount" : "Energy",
                     "Omni" : false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage" : 0,
@@ -195,20 +203,6 @@
             "x" : -2.5,
             "y" : 6,
             "z" : 2.5
-        }
-    ],
-    "FixedEquipment" : [
-        {
-            "MountedLocation" : "RightArm",
-            "ComponentDefID" : "Gear_Actuator_Prototype_Hatchet",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
         }
     ]
 }

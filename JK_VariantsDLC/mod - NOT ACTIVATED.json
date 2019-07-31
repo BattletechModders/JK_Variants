@@ -2,8 +2,9 @@
     "Name": "JK_VariantsDLC",
     "Enabled": false,
 
-	"Version": "1.4.0.4",
-	"PackagedOn": "2019-02-20T09:45:00Z",
+	"Version": "1.6.2.2",
+	"PackagedOn": "2019-07-29T16:45:00Z",
+
     "Description": "Adds DLC content 'Mech Variants - currently 1 Mech Variant and 1 Upgrade, includes optional JJ rules as well - usable in both Skirmish and Campaign modes.",
     "Website": "https://www.nexusmods.com/battletech/mods/18",
     "Contact": "message me at Nexus or Paradox sites",
@@ -11,6 +12,9 @@
 	"Manifest": [
         { "Type": "ChassisDef", "Path": "chassis", "ShouldMergeJSON": false, "AddToDB": true },
 		{ "Type": "MechDef", "Path": "mech", "ShouldMergeJSON": false, "AddToDB": true },
-		{ "Type": "UpgradeDef", "Path": "upgrades", "ShouldMergeJSON": false, "AddToDB": true }
+		{ "Type": "VehicleDef", "Path": "vehicle", "ShouldMergeJSON": false, "AddToDB": true },
+		{ "Type": "VehicleChassisDef", "Path": "vehicleChassis", "ShouldMergeJSON": false, "AddToDB": true },
+		{ "Type": "UpgradeDef", "Path": "upgrades", "ShouldMergeJSON": false, "AddToDB": true },
+		{ "Type": "MovementCapabilitiesDef", "Path": "movement", "ShouldMergeJSON": false, "AddToDB": true }
     ]
 }
