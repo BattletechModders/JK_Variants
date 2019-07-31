@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 5900000,
+        "Cost": 6100000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
@@ -39,7 +39,7 @@
     "Signature": 0,
     "Radius": 8,
     "PunchesWithLeftArm": false,
-    "MeleeDamage": 90,
+    "MeleeDamage": 85,
     "MeleeInstability": 60,
     "MeleeToHitModifier": 0,
     "DFADamage": 75,
@@ -215,5 +215,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Skirmisher & Brawler",
-    "YangsThoughts": "Affectionately known as the 'Grand Dragon', the DRG-1G replaces the AC5 with a PPC, Medium Laser and 2 extra Heat Sinks."
+    "YangsThoughts": "If the Dracs shove a PPC on something, they will certainly take the opportunity to do it.  Not that it is a bad thing, but it makes me wonder if the DCMS leadership is compensating...  All jokes aside, this is a step up from the standard Dragon and actually earns the 'Grand' moniker."
 }

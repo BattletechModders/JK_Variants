@@ -1,30 +1,30 @@
 {
     "Description": {
-        "Cost": 6700000,
-        "Rarity": 4,
+        "Cost": 10800000,
+        "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Grasshopper",
-        "Id": "chassisdef_grasshopper_GHR-4R",
-        "Name": "Grasshopper",
-        "Details": "Focusing on its task as a scout hunter, the GHR-4R had not only the same suite of energy weapons as the later 5H, it also mounted a pair of Small Lasers and a head mounted Flamer to deal with infantry.  However, chronic heat problems in the cockpit and lack of support weapons led to a redesign barely 2 years later with the introduction of the GHR-5H.",
-        "Icon": "uixTxrIcon_grasshopper"
+        "UIName": "Atlas",
+        "Id": "chassisdef_atlas_AS7-D-K",
+        "Name": "Atlas",
+        "Details": "A very rare Combine variant, the AS7-D-K swaps out the standard LRM-20 for paired LRM-10s.  What is unusual about this, is that the Combine techs chose to modify the firing tubes and ammunition feeds to allow the launchers to be placed in both side torsos.  Due to the cramped space available in the Right Torso, the AC20 ammunition needed to be moved to the left side, utilizing a similar feed system as the new LRM launcher.",
+        "Icon": "uixTxrIcon_atlas"
     },
-    "MovementCapDefID": "movedef_grasshopper_GHR-5H",
-    "PathingCapDefID": "pathingdef_heavy",
-    "HardpointDataDefID": "hardpointdatadef_grasshopper",
-    "PrefabIdentifier": "chrPrfMech_grasshopperBase-001",
-    "PrefabBase": "grasshopper",
-    "Tonnage": 70,
-    "InitialTonnage": 29,
-    "weightClass": "HEAVY",
-    "BattleValue": 7602000,
+    "MovementCapDefID": "movedef_atlas_AS7-D",
+    "PathingCapDefID": "pathingdef_assault",
+    "HardpointDataDefID": "hardpointdatadef_atlas",
+    "PrefabIdentifier": "chrPrfMech_atlasBase-001",
+    "PrefabBase": "atlas",
+    "Tonnage": 100,
+    "InitialTonnage": 35,
+    "weightClass": "ASSAULT",
+    "BattleValue": 10581000,
     "Heatsinks": 0,
-    "TopSpeed": 120,
+    "TopSpeed": 60,
     "TurnRadius": 90,
-    "MaxJumpjets": 4,
-    "Stability": 160,
+    "MaxJumpjets": 3,
+    "Stability": 200,
     "StabilityDefenses": [
         0,
         0,
@@ -39,22 +39,17 @@
     "Signature": 0,
     "Radius": 8,
     "PunchesWithLeftArm": false,
-    "MeleeDamage": 90,
-    "MeleeInstability": 70,
+    "MeleeDamage": 140,
+    "MeleeInstability": 100,
     "MeleeToHitModifier": 0,
-    "DFADamage": 90,
+    "DFADamage": 125,
     "DFAToHitModifier": 0,
-    "DFASelfDamage": 90,
-    "DFAInstability": 90,
+    "DFASelfDamage": 125,
+    "DFAInstability": 125,
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [
-                {
-                    "WeaponMount": "AntiPersonnel",
-                    "Omni": false
-                }
-            ],
+            "Hardpoints": [],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -75,31 +70,23 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 8,
-            "MaxArmor": 110,
+            "MaxArmor": 170,
             "MaxRearArmor": -1,
-            "InternalStructure": 55
+            "InternalStructure": 85
         },
         {
             "Location": "LeftTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "AntiPersonnel",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "AntiPersonnel",
+                    "WeaponMount": "Missile",
                     "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
-            "MaxArmor": 150,
-            "MaxRearArmor": 75,
-            "InternalStructure": 75
+            "MaxArmor": 210,
+            "MaxRearArmor": 105,
+            "InternalStructure": 105
         },
         {
             "Location": "CenterTorso",
@@ -107,35 +94,39 @@
                 {
                     "WeaponMount": "Energy",
                     "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 220,
-            "MaxRearArmor": 110,
-            "InternalStructure": 110
+            "MaxArmor": 310,
+            "MaxRearArmor": 155,
+            "InternalStructure": 155
         },
         {
             "Location": "RightTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Ballistic",
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "AntiPersonnel",
+                    "WeaponMount": "Ballistic",
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "AntiPersonnel",
+                    "WeaponMount": "Missile",
                     "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
-            "MaxArmor": 150,
-            "MaxRearArmor": 75,
-            "InternalStructure": 75
+            "MaxArmor": 210,
+            "MaxRearArmor": 105,
+            "InternalStructure": 105
         },
         {
             "Location": "RightArm",
@@ -151,78 +142,78 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 8,
-            "MaxArmor": 110,
+            "MaxArmor": 170,
             "MaxRearArmor": -1,
-            "InternalStructure": 55
+            "InternalStructure": 85
         },
         {
             "Location": "LeftLeg",
             "Hardpoints": [],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 150,
+            "MaxArmor": 210,
             "MaxRearArmor": -1,
-            "InternalStructure": 75
+            "InternalStructure": 105
         },
         {
             "Location": "RightLeg",
             "Hardpoints": [],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 150,
+            "MaxArmor": 210,
             "MaxRearArmor": -1,
-            "InternalStructure": 75
+            "InternalStructure": 105
         }
     ],
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 18,
-            "z": 0
-        },
-        {
-            "x": 4,
             "y": 17,
             "z": 0
         },
         {
-            "x": -4,
-            "y": 17,
-            "z": 0
+            "x": 5,
+            "y": 16,
+            "z": -1
+        },
+        {
+            "x": -5,
+            "y": 16,
+            "z": -1
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 18,
-            "z": 0
-        },
-        {
-            "x": 4,
             "y": 17,
             "z": 0
         },
         {
-            "x": -4,
-            "y": 17,
-            "z": 0
+            "x": 5,
+            "y": 16,
+            "z": -1
         },
         {
-            "x": 3,
-            "y": 5,
-            "z": 0
+            "x": -5,
+            "y": 16,
+            "z": -1
         },
         {
-            "x": -3,
-            "y": 5,
-            "z": 0
+            "x": 3.5,
+            "y": 5.5,
+            "z": 1
+        },
+        {
+            "x": -3.5,
+            "y": 5.5,
+            "z": 1
         }
     ],
-    "VariantName": "GHR-4R",
+    "VariantName": "AS7-D-K",
     "ChassisTags": {
         "items": [],
         "tagSetSourceFile": ""
     },
-    "StockRole": "Heavy Skirmisher & Cavalry",
-    "YangsThoughts": "This is a rare prize Commander, not many of these running around these days.  Though I can't say I'm surprised, from what I read, the cockpit is a few degrees north of an oven when that Flamer kicks off."
+    "StockRole": "Juggernaut & Close Assault",
+    "YangsThoughts": "Not sure why they didn't just place both LRM launchers in the Left Torso, but I do admire the Drac's ingenuity.  The AS7-D-K has the potential to generate a bit more heat with the dual launchers in place of the single LRM-20, but it also allows split fire for support purposes.  Overall, I can see why this is such a rare variant."
 }

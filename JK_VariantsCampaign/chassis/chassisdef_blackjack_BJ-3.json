@@ -1,0 +1,232 @@
+{
+    "Description": {
+        "Cost": 5200000,
+        "Rarity": 5,
+        "Purchasable": false,
+        "Manufacturer": "",
+        "Model": "",
+        "UIName": "Blackjack",
+        "Id": "chassisdef_blackjack_BJ-3",
+        "Name": "Blackjack",
+        "Details": "Blackjack 3s are based on the experimental BJ-3Xs built by the Capellans on St. Ives in 3028, during the Fourth Succession War.  Utilizing re-discovered technology from the Star League Era, this Federated Suns version utilizes Double HeatSinks. With this superior heat dissipation, the BJ-3 was armed with two PPCs and four Medium Lasers, giving it a serious punch for its weight class.",
+        "Icon": "uixTxrIcon_blackjack"
+    },
+    "MovementCapDefID": "movedef_blackjack_BJ-1",
+    "PathingCapDefID": "pathingdef_medium",
+    "HardpointDataDefID": "hardpointdatadef_blackjack",
+    "PrefabIdentifier": "chrPrfMech_blackjackBase-001",
+    "PrefabBase": "blackjack",
+    "Tonnage": 45,
+    "InitialTonnage": 16.5,
+    "weightClass": "MEDIUM",
+    "BattleValue": 4067000,
+    "Heatsinks": 0,
+    "TopSpeed": 120,
+    "TurnRadius": 90,
+    "MaxJumpjets": 4,
+    "Stability": 130,
+    "StabilityDefenses": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SpotterDistanceMultiplier": 1,
+    "VisibilityMultiplier": 1,
+    "SensorRangeMultiplier": 1,
+    "Signature": 0,
+    "Radius": 5,
+    "PunchesWithLeftArm": false,
+    "MeleeDamage": 40,
+    "MeleeInstability": 45,
+    "MeleeToHitModifier": 0,
+    "DFADamage": 55,
+    "DFAToHitModifier": 0,
+    "DFASelfDamage": 55,
+    "DFAInstability": 55,
+    "Locations": [
+        {
+            "Location": "Head",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 45,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "LeftArm",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 70,
+            "MaxRearArmor": -1,
+            "InternalStructure": 35
+        },
+        {
+            "Location": "LeftTorso",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 110,
+            "MaxRearArmor": 55,
+            "InternalStructure": 55
+        },
+        {
+            "Location": "CenterTorso",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 140,
+            "MaxRearArmor": 70,
+            "InternalStructure": 70
+        },
+        {
+            "Location": "RightTorso",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 110,
+            "MaxRearArmor": 55,
+            "InternalStructure": 55
+        },
+        {
+            "Location": "RightArm",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 70,
+            "MaxRearArmor": -1,
+            "InternalStructure": 35
+        },
+        {
+            "Location": "LeftLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 110,
+            "MaxRearArmor": -1,
+            "InternalStructure": 55
+        },
+        {
+            "Location": "RightLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 110,
+            "MaxRearArmor": -1,
+            "InternalStructure": 55
+        }
+    ],
+    "LOSSourcePositions": [
+        {
+            "x": 0,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": -4,
+            "y": 14,
+            "z": 0
+        }
+    ],
+    "LOSTargetPositions": [
+        {
+            "x": 0,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": -4,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": 2.5,
+            "y": 6,
+            "z": 2.5
+        },
+        {
+            "x": -2.5,
+            "y": 6,
+            "z": 2.5
+        }
+    ],
+    "VariantName": "BJ-3",
+    "ChassisTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "StockRole": "Sniper, Fire Support, & Skirmisher",
+    "YangsThoughts": "Looks like they finally got that old BJ-3X standardized using the new Double Heat Sink technology which makes the BJ-3 is a solid improvement in the heat dissipation department - which lets you utilize those PPCs and Medium Lasers to even greater effect!",
+    "FixedEquipment" : [
+        {
+            "MountedLocation" : "CenterTorso",
+            "ComponentDefID" : "Gear_HeatSink_Engine_Double",
+            "SimGameUID" : null,
+            "ComponentDefType" : "HeatSink",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        }
+    ]
+}

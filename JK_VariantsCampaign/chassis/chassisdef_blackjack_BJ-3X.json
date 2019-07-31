@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 3500000,
+        "Cost": 3600000,
         "Rarity": 1,
         "Purchasable": true,
         "Manufacturer": "",
@@ -206,43 +206,43 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support & Skirmisher",
-    "YangsThoughts": "Not a bad upgrade from the original Blackjack model, and those two PPCs give it a hell of a punch.  But these freezers are the real show stealers, not sure how they got them to work, but give me a little time with her and I'll figure it out.",
+    "YangsThoughts": "Not a bad upgrade from the original Blackjack model, and those two PPCs give it a hell of a punch - and I'm not just saying that out of pride for St. Ives.  But these freezers are the real show stealers, not sure how they got them to work, but give me a little time with her and I'll figure it out.",
     "FixedEquipment": [
-		{
-			"ComponentDefID": "Gear_HeatSink_NAIS",
-			"ComponentDefType": "HeatSink",
-			"DamageLevel": "Functional",
-			"GUID": null,
-			"HardpointSlot": -1,
-			"IsFixed": true,
+		{			
 			"MountedLocation": "LeftTorso",
-			"SimGameUID": "",
-			"hasPrefabName": false,
-			"prefabName": null
-        },
-		{
-			"ComponentDefID": "Gear_HeatSink_NAIS",
+            "ComponentDefID": "Gear_HeatSink_NAIS",
+            "SimGameUID": "",
 			"ComponentDefType": "HeatSink",
-			"DamageLevel": "Functional",
-			"GUID": null,
 			"HardpointSlot": -1,
 			"IsFixed": true,
-			"MountedLocation": "RightTorso",
-			"SimGameUID": "",
-			"hasPrefabName": false,
-			"prefabName": null
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
         },
 		{
-			"ComponentDefID": "Gear_HeatSink_NAIS",
+			"MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_NAIS",
+            "SimGameUID": "",
 			"ComponentDefType": "HeatSink",
-			"DamageLevel": "Functional",
-			"GUID": null,
 			"HardpointSlot": -1,
 			"IsFixed": true,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
+        },
+		{
 			"MountedLocation": "RightTorso",
-			"SimGameUID": "",
-			"hasPrefabName": false,
-			"prefabName": null
+            "ComponentDefID": "Gear_HeatSink_NAIS",
+            "SimGameUID": "",
+			"ComponentDefType": "HeatSink",
+			"HardpointSlot": -1,
+			"IsFixed": true,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
         }
     ]
 }

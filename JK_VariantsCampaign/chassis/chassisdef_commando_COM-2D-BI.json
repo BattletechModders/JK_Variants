@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 2100000,
+        "Cost": 2200000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": "",
@@ -223,5 +223,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Striker & Scout",
-    "YangsThoughts": "When the say Inferno, no one realized they were referring to the temperature inside the cockpit.  I suggest removing some of the lasers and adding a heat sink or two."
+    "YangsThoughts": "When they say Inferno, no one realized the techs were referring to the temperature inside the cockpit.  I suggest removing some of the lasers and adding a heat sink or two... or three."
 }

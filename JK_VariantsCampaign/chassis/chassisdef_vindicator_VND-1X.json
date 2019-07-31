@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 3800000,
+        "Cost": 3600000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": "",
@@ -206,5 +206,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support & Brawler",
-    "YangsThoughts": "A very minor modification, replacing the Small Laser with a pair of Machine Guns, giving it a little more punch in a close range fight."
+    "YangsThoughts": "Never really thought of the Vindy as a close in 'Mech, but the MGs do give the VND-1X a little extra punch in melee."
 }

@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 6700000,
+        "Cost": 6600000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
@@ -206,5 +206,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & Close Assault",
-    "YangsThoughts": "The 2X replaces the PPC with a heavy laser, while the arm-mounted medium lasers are removed in favor of a SRM-4.  This reduction in heat load also allows for the removal of 2 heat sinks and adding armor in their stead."
+    "YangsThoughts": "This was another prototype of the Cataphract design, and I hafta say I this I prefer this version.  The CTF-2X alleviates ta lot of the heat issues of the 1X while also making it more durable with the extra armor.  This one shows some promise."
 }

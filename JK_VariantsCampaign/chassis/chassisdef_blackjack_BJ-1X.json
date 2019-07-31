@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 3500000,
+        "Cost": 4000000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
@@ -8,7 +8,7 @@
         "UIName": "Blackjack",
         "Id": "chassisdef_blackjack_BJ-1X",
         "Name": "Blackjack",
-        "Details": "This early Blackjack prototype started along a completely different path for the 'Mech.  Focusing on close in weapons, the BJ-1X has four Flamers and four Medium Lasers.  The BJ-1X also focused more on speed than jump manueverability, increasing the engine size while removing the Jump Jets.",
+        "Details": "This early Blackjack prototype started along a completely different path for the 'Mech.  Focusing on close in weapons, the BJ-1X has four Flamers and four Medium Lasers.  The BJ-1X also focused more on speed than jump maneuverability, increasing the engine size while removing the Jump Jets.",
         "Icon": "uixTxrIcon_blackjack"
     },
     "MovementCapDefID": "movedef_blackjack_BJ-1X",
@@ -222,5 +222,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & Disabler",
-    "YangsThoughts": "This early Blackjack prototype started along a completely different path for the 'Mech.  Focusing on close in weapons, the BJ-1X has four Flamers and four Medium Lasers.  The BJ-1X also focused more on speed than jump manueverability, increasing the engine size while removing the Jump Jets."
+    "YangsThoughts": "This one is interesting Commander, as it is an example of the design process.  You see, originally the Blackjack was designed as a close in brawler, sort of an overcharged Firestarter.  The designers decided to go for a faster engine, rather than the maneuverability of the JumpJets, which, as you know, is on the more common BJ-1 we see today, which is focused on range and mobility.  Man, I could talk about this sort of stuff for hours!  Uh, Commander, where are you going?"
 }

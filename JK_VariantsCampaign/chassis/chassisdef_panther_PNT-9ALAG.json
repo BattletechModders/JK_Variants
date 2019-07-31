@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 2800000,
+        "Cost": 2900000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
@@ -113,7 +113,7 @@
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "AntiPersonnel",
                     "Omni": false
                 }
             ],

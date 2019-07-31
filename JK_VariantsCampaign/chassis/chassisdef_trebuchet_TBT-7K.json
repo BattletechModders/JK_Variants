@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 4600000,
+        "Cost": 4500000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
@@ -197,5 +197,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support",
-    "YangsThoughts": "Almost an entirely new 'Mech, the Trebuchet 7K moves away from its missile support to direct fire support, using a PPC and AC5 along with a SRM-2 for some close in support."
+    "YangsThoughts": "A spiritual cousin to the Catapult K, the TBT-7K removes the missiles and slaps on.. yeah, you guessed it, a PPC.  It does an ok job as a medium direct support 'Mech, but I still prefer the 5J."
 }

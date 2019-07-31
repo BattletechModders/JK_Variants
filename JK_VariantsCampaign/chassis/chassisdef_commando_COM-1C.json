@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 2100000,
+        "Cost": 1900000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": "",
@@ -111,6 +111,10 @@
                 {
                     "WeaponMount": "AntiPersonnel",
                     "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage": 0,
@@ -188,5 +192,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Sniper & Scout",
-    "YangsThoughts": "The Commando 1C is a recent variant that attempts to make a long range direct fire support unit, by removing the missiles and replacing them with a single AC2 in the right arm."
+    "YangsThoughts": "I have mixed feelings on this, the 1C tries to be a direct fire support 'Mech, but doesn't really pack enough of a punch with its AC2, on top of that, they removed the JumpJets that would allow it to get the angle on the shots it needs.  I suppose in an open environment it could harass an incoming unit."
 }

@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 1950000,
+        "Cost": 1800000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": "",
@@ -126,7 +126,7 @@
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "Ballistic",
+                    "WeaponMount": "AntiPersonnel",
                     "Omni": false
                 }
             ],

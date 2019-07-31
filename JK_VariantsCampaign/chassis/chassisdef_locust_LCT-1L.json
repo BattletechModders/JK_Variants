@@ -44,7 +44,7 @@
     "MeleeToHitModifier": 0,
     "DFADamage": 25,
     "DFAToHitModifier": 0,
-    "DFASelfDamage": 25,
+    "DFASelfDamage": 35,
     "DFAInstability": 25,
     "Locations": [
         {
@@ -200,28 +200,28 @@
     "YangsThoughts": "I have to hand it to the Capellans, they really are doing their best to make lemonade out of limes.  The Triple Strength Myomer upgrade improves the 'Mech's speed and melee performance, but it requires the MechWarrior to disengage heat protocols to help the Myomer bundles to function correctly.  Its a far cry from the Star League era M.A.S.C. systems, but it is progress.",
     "FixedEquipment": [
 		{
+			"MountedLocation": "LeftTorso",
 			"ComponentDefID": "Gear_TSM_Prototype_Bergan",
+			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
-			"DamageLevel": "Functional",
-			"GUID": null,
 			"HardpointSlot": -1,
 			"IsFixed": true,
-			"MountedLocation": "LeftTorso",
-			"SimGameUID": "",
-			"hasPrefabName": false,
-			"prefabName": null
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
         },
 		{
+			"MountedLocation": "RightTorso",
 			"ComponentDefID": "Gear_TSM_Prototype_Bergan",
+			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
-			"DamageLevel": "Functional",
-			"GUID": null,
 			"HardpointSlot": -1,
 			"IsFixed": true,
-			"MountedLocation": "RightTorso",
-			"SimGameUID": "",
-			"hasPrefabName": false,
-			"prefabName": null
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
         }
     ]
 }

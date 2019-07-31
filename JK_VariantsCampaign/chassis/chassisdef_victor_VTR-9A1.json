@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 8100000,
+        "Cost": 8000000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": "",
@@ -210,5 +210,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Cavalry",
-    "YangsThoughts": "Another anti-infantry and brawler variant, the VTR-9A1 adds twin Machine Guns and retains most of its armor."
+    "YangsThoughts": "The 9A1 is a pretty decent brawler commander, and it has the armor to mix it up for an extended scrap.  I'd hate to run into one of these in an urban environment."
 }

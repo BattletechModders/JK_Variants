@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 10400000,
+        "Cost": 10300000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": "",
@@ -196,5 +196,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Brawler & Juggernaut",
-    "YangsThoughts": "The Banshee 3Q variant lacks the long distance capabilities of its predecessor, replacing its AC10 and PPC with an AC20 and enough ammo to last in a sustained fight."
+    "YangsThoughts": "Well, one thing is for sure, you ain't going to run out of AutoCannon ammo in the Banshee 3Q.  Not sure how useful it will be on open ground, but it will shine in an Urban or Canyon environment."
 }

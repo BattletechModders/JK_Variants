@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 8400000,
+        "Cost": 8600000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": "",
@@ -8,7 +8,7 @@
         "UIName": "Stalker",
         "Id": "chassisdef_stalker_STK-4N",
         "Name": "Stalker",
-        "Details": "By removing one of the LRM launchers and adding more Heat Sinks, the Stalker 4N can dish out more damage per round without as much fear of baking the pilot alive.",
+        "Details": "The Stalker STK-4N removes an LRM launchers in order to add more Heat Sinks.  While it doesn't add any additional weapons, the extra Heat Sinks allow for a more consistent output of damage without over heating.",
         "Icon": "uixTxrIcon_stalker"
     },
     "MovementCapDefID": "movedef_stalker_STK-3F",
@@ -230,5 +230,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Ranged Assault",
-    "YangsThoughts": "By removing one of the LRM launchers and adding more Heat Sinks, the Stalker 4N can dish out more damage per round without as much fear of baking the pilot alive."
+    "YangsThoughts": "By removing one of the LRM launchers and adding more Heat Sinks, the Stalker 4N can dish out more damage per round without as much fear of baking the pilot alive - always a plus in my book."
 }

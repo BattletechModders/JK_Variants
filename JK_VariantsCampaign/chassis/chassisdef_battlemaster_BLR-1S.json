@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 9600000,
+        "Cost": 9400000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
@@ -210,5 +210,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Brawler & Close Assault",
-    "YangsThoughts": "A new variant produced for the Lyran Commonwealth by Red Devil industries which changes its mission profile to be more of a support 'Mech, removing its PPC and SRM-6 and replacing them with an LRM-15, LRM-5 and a pair of SRM-2s."
+    "YangsThoughts": "I don't have a lot of experience with this model as it only came out in 3025, but the Lyrans take isn't a bad one.  It really changes the mission profile of the 'Mech, giving some Indirect Fire support.  Though I don't know why they bothered with the two SRM launchers, may as well go all in with the LRMs."
 }

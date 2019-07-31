@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 4600000,
+        "Cost": 4400000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": "",
@@ -197,5 +197,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support",
-    "YangsThoughts": "Trading off firepower for mobility, the Trebuchet 5J removes one of the LRM-15 launchers and adds in jump capabilities and 5 extra heat sinks."
+    "YangsThoughts": "I gotta say, I like this take on the Trenchbucket.  The 5J's added mobility with the addition of JumpJets breathes some life into this 'Mech.  I would recommend upping the LRM to a 20 rack with more ammo and scrapping out some of the Heat Sinks and maybe a Medium Laser.  Might also be interesting to replace it with some SRMs and make this into a close in brawler."
 }
