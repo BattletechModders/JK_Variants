@@ -1,0 +1,169 @@
+{
+   "Description" : {
+      "Id" : "lancedef_vehicle_d6_dynamic_ammo",
+      "Name" : "Dynamic Dif 6 noncombatant vehicle convoy",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Difficulty" : 6,
+   "LanceTags" : {
+      "items" : [
+         "lance_type_ammo"
+      ],
+      "tagSetSourceFile" : "Tags/LanceTags"
+   },
+   "LanceUnits" : [
+      {
+         "unitType" : "Vehicle",
+         "unitId" : "Tagged",
+         "pilotId" : "Tagged",
+         "unitTagSet" : {
+            "items" : [
+               "unit_vehicle",
+               "unit_vehicle_ammoTransport",
+               "unit_noncombatant"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "excludedUnitTagSet" : {
+            "items" : [
+			   "unit_urbie",
+            "unit_very_rare_{CUR_TEAM.faction}",
+            "unit_ext_rare_{CUR_TEAM.faction}",
+            "unit_none_{CUR_TEAM.faction}",
+            "unit_hero_{CUR_TEAM.faction}",
+            "unit_LosTech",
+            "unit_era_2750",
+            "unit_era_2900",
+            "unit_clan"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "pilotTagSet" : {
+            "items" : [
+               "pilot_sensor"
+            ],
+            "tagSetSourceFile" : "Tags/PilotTags"
+         },
+         "excludedPilotTagSet" : {
+            "items" : null,
+            "tagSetSourceFile" : "Tags/PilotTags"
+         }
+      },
+      {
+         "unitType" : "Vehicle",
+         "unitId" : "Tagged",
+         "pilotId" : "Tagged",
+         "unitTagSet" : {
+            "items" : [
+               "unit_vehicle",
+               "unit_vehicle_ammoTransport",
+               "unit_noncombatant"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "excludedUnitTagSet" : {
+            "items" : [
+			   "unit_urbie",
+            "unit_very_rare_{CUR_TEAM.faction}",
+            "unit_ext_rare_{CUR_TEAM.faction}",
+            "unit_none_{CUR_TEAM.faction}",
+            "unit_hero_{CUR_TEAM.faction}",
+            "unit_LosTech",
+            "unit_era_2750",
+            "unit_era_2900",
+            "unit_clan"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "pilotTagSet" : {
+            "items" : [
+               "pilot_sensor"
+            ],
+            "tagSetSourceFile" : "Tags/PilotTags"
+         },
+         "excludedPilotTagSet" : {
+            "items" : null,
+            "tagSetSourceFile" : "Tags/PilotTags"
+         }
+      },
+      {
+         "unitType" : "Vehicle",
+         "unitId" : "Tagged",
+         "pilotId" : "Tagged",
+         "unitTagSet" : {
+            "items" : [
+               "unit_vehicle",
+               "unit_vehicle_ammoTransport",
+               "unit_noncombatant"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "excludedUnitTagSet" : {
+            "items" : [
+            "unit_urbie",
+            "unit_assault",
+            "unit_ext_rare_{CUR_TEAM.faction}",
+            "unit_none_{CUR_TEAM.faction}",
+            "unit_hero_{CUR_TEAM.faction}",
+            "unit_LosTech",
+            "unit_era_2750",
+            "unit_era_2900",
+            "unit_clan"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "pilotTagSet" : {
+            "items" : [
+               "pilot_sensor"
+            ],
+            "tagSetSourceFile" : "Tags/PilotTags"
+         },
+         "excludedPilotTagSet" : {
+            "items" : null,
+            "tagSetSourceFile" : "Tags/PilotTags"
+         }
+      },
+      {
+         "unitType" : "Vehicle",
+         "unitId" : "Tagged",
+         "pilotId" : "Tagged",
+         "unitTagSet" : {
+            "items" : [
+               "unit_vehicle",
+               "unit_vehicle_ammoTransport",
+               "unit_noncombatant"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "excludedUnitTagSet" : {
+            "items" : [
+			   "unit_urbie",
+            "unit_assault",
+            "unit_very_rare_{CUR_TEAM.faction}",
+            "unit_ext_rare_{CUR_TEAM.faction}",
+            "unit_none_{CUR_TEAM.faction}",
+            "unit_hero_{CUR_TEAM.faction}",
+            "unit_LosTech",
+            "unit_era_2750",
+            "unit_era_2900",
+            "unit_clan"
+            ],
+            "tagSetSourceFile" : "Tags/UnitTags"
+         },
+         "pilotTagSet" : {
+            "items" : [
+               "pilot_sensor"
+            ],
+            "tagSetSourceFile" : "Tags/PilotTags"
+         },
+         "excludedPilotTagSet" : {
+            "items" : null,
+            "tagSetSourceFile" : "Tags/PilotTags"
+         }
+      }
+   ]
+}
