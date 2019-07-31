@@ -1,0 +1,63 @@
+{
+    "Category" : "Ballistic",
+    "Type" : "Autocannon",
+    "WeaponSubType" : "AC20",
+    "MinRange" : 180,
+    "MaxRange" : 510,
+    "RangeSplit" : [
+        340,
+        340,
+        510
+    ],
+    "AmmoCategory" : "AC20",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 69,
+    "Damage" : 100,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 0,
+    "AccuracyModifier" : 0,
+    "CriticalChanceMultiplier" : 1,
+    "AOECapable" : false,
+    "IndirectFireCapable" : false,
+    "RefireModifier" : 4,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 4,
+    "Instability" : 70,
+    "WeaponEffectID" : "WeaponEffect-Weapon_AC20_Single",
+    "Description" : {
+        "Cost" : 230000,
+        "Rarity" : 99,
+        "Purchasable" : false,
+        "Manufacturer" : "Armstrong",
+        "Model" : "Sniper Artillery",
+        "UIName" : "Sniper Artillery",
+        "Id" : "Weapon_SniperArtillery",
+        "Name" : "Sniper",
+        "Details" : "The Sniper Rifle Artillery Piece is the smaller cousin to the Long Tom Artillery Piece designed by Armstrong Industries. As the second most-powerful tube artillery in the Inner Sphere, the Sniper can cripple or destroy most light and medium BattleMechs with a single hit.  The weapon has an effective range of 9 kilometers.",
+        "Icon" : "uixSvgIcon_weapon_Ballistic"
+    },
+    "BonusValueA" : "",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "AC20",
+    "BattleValue" : 0,
+    "InventorySize" : 20,
+    "Tonnage" : 20,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "range_very-long"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}
