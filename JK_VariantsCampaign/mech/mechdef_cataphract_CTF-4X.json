@@ -2,18 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
-            "unit_release",
+            "unit_heavy", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_support",
             "unit_role_sniper",
-            "BLACKLISTED"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_cataphract_CTF-4X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8020000,
+        "Cost": 7300000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "The CTF-4X is the latest variant of this prototype 'Mech.  The 4X downgrades the Engine, making for a slower ride, but adds more long range firepower with two Autocannon 5s, a Large Laser and LRM5.",
         "Icon": "uixTxrIcon_cataphract"
     },
-    "simGameMechPartCost": 800000,
+    "simGameMechPartCost": 730000,
     "Version": 1,
     "Locations": [
         {

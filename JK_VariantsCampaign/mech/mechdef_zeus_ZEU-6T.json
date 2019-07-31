@@ -2,17 +2,24 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_assault",
+            "unit_assault", 
+            "unit_range_long",
+            "unit_hot",
             "unit_lance_assassin",
             "unit_role_sniper",
-            "unit_release"
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_zeus_ZEU-6T",
     "HeraldryID": null,
     "Description": {
-        "Cost": 9710000,
+        "Cost": 10200000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +30,7 @@
         "Details": "A relatively new development, the Zeus 6TS removes the Autocannon and replaces it with a PPC.  To help mitigate the additional heat, 2 Heat Sinks were also added.",
         "Icon": "uixTxrIcon_zeus"
     },
-    "simGameMechPartCost": 970000,
+    "simGameMechPartCost": 1020000,
     "Version": 1,
     "Locations": [
         {

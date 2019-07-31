@@ -1,20 +1,24 @@
 {
     "MechTags": {
         "items": [
-            "unit_indirectFire",
-            "unit_release",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
+            "unit_indirectFire", 
+            "unit_range_medium",
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_brawler",
+            "unit_release",
+            "Marik"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_hunchback_HBK-4N",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6090000,
+        "Cost": 5500000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +29,7 @@
         "Details": "Combining elements of the 4H and 4J 'Swaybacks', the HBK-4N uses an AC5 and two LRM-5s to give it range, while the four Medium Lasers give it punch up close. ",
         "Icon": "uixTxrIcon_hunchback"
     },
-    "simGameMechPartCost": 610000,
+    "simGameMechPartCost": 550000,
     "Version": 1,
     "Locations": [
         {

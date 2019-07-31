@@ -1,20 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_release",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
+            "unit_jumpOK", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "NotDavion",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_vindicator_VND-1X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4910000,
+        "Cost": 4700000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +33,7 @@
         "Details": "A very minor modification, replacing the Small Laser with a pair of Machine Guns, giving it a little more punch in a close range fight.",
         "Icon": "uixTxrIcon_vindicator"
     },
-    "simGameMechPartCost": 490000,
+    "simGameMechPartCost": 470000,
     "Version": 1,
     "Locations": [
         {

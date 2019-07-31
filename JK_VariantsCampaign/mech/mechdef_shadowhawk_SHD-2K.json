@@ -1,22 +1,24 @@
 {
     "MechTags": {
         "items": [
-            "unit_release",
-            "unit_jumpOK",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
+            "unit_jumpOK", 
+            "unit_range_long",
+            "unit_armor_high",
             "unit_lance_tank",
             "unit_lance_assassin",
             "unit_lance_vanguard",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "Kurita"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_shadowhawk_SHD-2K",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6140000,
+        "Cost": 6300000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -27,7 +29,7 @@
         "Details": "The Shadow Hawk 2K removes all the armaments of the original, aside from its LRM-5, and replaces them with a single PPC.  Five additional Heat Sinks are also added to help with the excess heat.",
         "Icon": "uixTxrIcon_shadowhawk"
     },
-    "simGameMechPartCost": 610000,
+    "simGameMechPartCost": 630000,
     "Version": 1,
     "Locations": [
         {

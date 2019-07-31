@@ -2,17 +2,20 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_release",
-            "unit_light",
+            "unit_light", 
+            "unit_range_medium",
+            "unit_speed_high",
+            "unit_armor_high",
             "unit_lance_vanguard",
-            "unit_role_scout"
+            "unit_role_scout",
+            "unit_release"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_locust_LCT-3V",
     "HeraldryID": null,
     "Description": {
-        "Cost": 1890000,
+        "Cost": 2000000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +26,7 @@
         "Details": "The Locust 3V trades off protection for more firepower, relying on its superior speed to avoid getting hit in the first place.",
         "Icon": "uixTxrIcon_locust"
     },
-    "simGameMechPartCost": 190000,
+    "simGameMechPartCost": 200000,
     "Version": 1,
     "Locations": [
         {

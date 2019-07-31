@@ -3,17 +3,28 @@
         "items": [
             "unit_mech",
             "unit_heavy",
-            "unit_indirectFire",
+            "unit_indirectFire", 
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
+            "unit_hot",
             "unit_lance_assassin",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "Davion",
+            "Liao",
+            "Marik",
+            "Steiner",
+            "Kurita",
+            "MagistracyOfCanopus",
+            "TaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_stalker_STK-4P",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10440000,
+        "Cost": 9100000,
         "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
@@ -21,10 +32,10 @@
         "UIName": "Stalker STK-4P",
         "Id": "mechdef_stalker_STK-4P",
         "Name": "Stalker",
-        "Details": "Due to ongoing structual weakness issues with the aging Stalker chassis, it was necessary to reduce the load by 10 tons by removing a LRM launcher effectively reclassifying this variant as a Heavy 'Mech.",
+        "Details": "Due to ongoing structural weakness issues with the aging Stalker chassis, it was necessary to reduce the load by 10 tons by removing a LRM launcher effectively reclassifying this variant as a Heavy 'Mech.",
         "Icon": "uixTxrIcon_stalker"
     },
-    "simGameMechPartCost": 1040000,
+    "simGameMechPartCost": 910000,
     "Version": 1,
     "Locations": [
         {

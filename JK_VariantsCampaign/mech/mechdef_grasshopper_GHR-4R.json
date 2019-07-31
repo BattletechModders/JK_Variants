@@ -3,17 +3,27 @@
         "items": [
             "unit_mech",
             "unit_heavy",
-            "unit_jumpOK",
+            "unit_jumpOK", 
+            "unit_range_medium",
+            "unit_range_short",
+            "unit_armor_high",
             "unit_lance_assassin",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_grasshopper_GHR-4R",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8830000,
+        "Cost": 8400000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +34,7 @@
         "Details": "Focusing on its task as a scout hunter, the GHR-4R had not only the same suite of energy weapons as the later 5H, it also mounted a pair of Small Lasers and a head mounted Flamer to deal with infantry.  However, chronic heat problems in the cockpit and lack of support weapons led to a redesign barely 2 years later with the introduction of the GHR-5H.",
         "Icon": "uixTxrIcon_grasshopper"
     },
-    "simGameMechPartCost": 880000,
+    "simGameMechPartCost": 840000,
     "Version": 1,
     "Locations": [
         {

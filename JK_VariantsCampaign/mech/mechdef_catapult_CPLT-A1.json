@@ -1,20 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_indirectFire",
             "unit_mech",
             "unit_heavy",
-            "unit_release",
             "unit_jumpOK",
+            "unit_indirectFire", 
+            "unit_range_long",
+            "unit_armor_high",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "NotDavion",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_catapult_CPLT-A1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 7410000,
+        "Cost": 7300000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +33,7 @@
         "Details": "The Catapult A1 was designed as a true support role model.  The CPLT-A1 removes all 4 Medium Lasers in favor of additional LRM ammunition and armor.",
         "Icon": "uixTxrIcon_catapult"
     },
-    "simGameMechPartCost": 740000,
+    "simGameMechPartCost": 730000,
     "Version": 1,
     "Locations": [
         {

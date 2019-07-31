@@ -1,20 +1,22 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_release",
             "unit_mech",
             "unit_light",
-            "unit_ready",
+            "unit_jumpOK", 
+            "unit_range_short",
+            "unit_speed_high",
+            "unit_hot",
             "unit_lance_vanguard",
-            "unit_role_scout"
+            "unit_role_scout",
+            "unit_release"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_firestarter_FS9-K",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4090000,
+        "Cost": 3900000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +27,7 @@
         "Details": "Originally designed as a companion model for the Firestarter FS9-H, the FS9-K has proved popular in its own right with the Large Laser giving the FS9-K the reach that its companion lacked.",
         "Icon": "uixTxrIcon_firestarter"
     },
-    "simGameMechPartCost": 410000,
+    "simGameMechPartCost": 390000,
     "Version": 1,
     "Locations": [
         {

@@ -2,18 +2,26 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_medium",
+            "unit_medium", 
+            "unit_range_short",
+            "unit_speed_high",
+            "unit_armor_low",
             "unit_lance_vanguard",
             "unit_role_scout",
             "unit_release",
-            "unit_fallback"
+            "NotDavion",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_cicada_CDA-2B",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3340000,
+        "Cost": 4300000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +32,7 @@
         "Details": "A swap out of the 2A's Small Laser and half a ton of armor for a Flamer, this 'Mech can be quickly maneuvered in to heat up an oppoent that is already having issues.",
         "Icon": "uixTxrIcon_cicada"
     },
-    "simGameMechPartCost": 330000,
+    "simGameMechPartCost": 430000,
     "Version": 1,
     "Locations": [
         {

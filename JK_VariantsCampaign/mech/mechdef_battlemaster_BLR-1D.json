@@ -2,17 +2,23 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_assault",
-            "unit_release",
+            "unit_assault", 
+            "unit_range_medium",
+            "unit_armor_high",
             "unit_lance_tank",
-            "unit_role_brawler"
+            "unit_role_brawler",
+            "unit_release",
+            "Davion",
+            "NotMarik",
+            "NotSteiner",
+            "NotMagistracyOfCanopus"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_battlemaster_BLR-1D",
     "HeraldryID": null,
     "Description": {
-        "Cost": 11250000,
+        "Cost": 11100000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -20,10 +26,10 @@
         "UIName": "BattleMaster BLR-1D",
         "Id": "mechdef_battlemaster_BLR-1D",
         "Name": "Battlemaster",
-        "Details": "More of a refit than a production variant, the SRM-6 and two Medium Lasers are removed so that six Heat Sinks and an extra ton of armor could be added.  Making the BLR-1D a formitable opponent.",
+        "Details": "More of a refit than a production variant, the SRM-6 and two Medium Lasers are removed so that six Heat Sinks and an extra ton of armor could be added.  Making the BLR-1D a formidable opponent.",
         "Icon": "uixTxrIcon_battlemaster"
     },
-    "simGameMechPartCost": 1130000,
+    "simGameMechPartCost": 1110000,
     "Version": 1,
     "Locations": [
         {

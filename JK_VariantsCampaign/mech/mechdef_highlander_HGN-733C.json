@@ -3,18 +3,24 @@
         "items": [
             "unit_mech",
             "unit_assault",
-            "unit_indirectFire",
             "unit_jumpOK",
+            "unit_indirectFire", 
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
+            "unit_hot",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_highlander_HGN-733C",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10760000,
+        "Cost": 10800000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,

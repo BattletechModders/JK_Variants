@@ -1,19 +1,26 @@
 {
     "MechTags": {
         "items": [
-            "unit_indirectFire",
             "unit_mech",
             "unit_heavy",
-            "unit_release",
+            "unit_indirectFire", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_hot",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "Davion",
+            "NotMarik",
+            "NotSteiner",
+            "NotMagistracyOfCanopus"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_jagermech_JM6-B",
     "HeraldryID": null,
     "Description": {
-        "Cost": 7010000,
+        "Cost": 7400000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +31,7 @@
         "Details": "A recent variant to the JagerMech, the JM6-B removes most of the ammunition dependencies of the original model by swapping out the AutoCannons for Lasers.  To make up for the loss in range, a pair of LRM-15 launchers have been added.",
         "Icon": "uixTxrIcon_jagermech"
     },
-    "simGameMechPartCost": 700000,
+    "simGameMechPartCost": 740000,
     "Version": 1,
     "Locations": [
         {

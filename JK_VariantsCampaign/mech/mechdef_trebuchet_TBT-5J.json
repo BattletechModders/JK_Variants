@@ -1,21 +1,23 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_indirectFire",
-            "unit_release",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
+            "unit_jumpOK",
+            "unit_indirectFire", 
+            "unit_range_long",
+            "unit_range_medium",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "Marik"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_trebuchet_TBT-5J",
     "HeraldryID": null,
     "Description": {
-        "Cost": 5640000,
+        "Cost": 5500000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -26,7 +28,7 @@
         "Details": "Trading off firepower for mobility, the Trebuchet 5J removes one of the LRM-15 launchers and adds in jump capabilities and 5 extra heat sinks.",
         "Icon": "uixTxrIcon_trebuchet"
     },
-    "simGameMechPartCost": 560000,
+    "simGameMechPartCost": 550000,
     "Version": 1,
     "Locations": [
         {

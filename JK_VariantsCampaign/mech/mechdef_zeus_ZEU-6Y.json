@@ -1,19 +1,27 @@
 {
     "MechTags": {
         "items": [
-            "unit_indirectFire",
             "unit_mech",
             "unit_assault",
+            "unit_indirectFire", 
+            "unit_range_long",
             "unit_lance_support",
             "unit_role_sniper",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_zeus_ZEU-6Y",
     "HeraldryID": null,
     "Description": {
-        "Cost": 9710000,
+        "Cost": 9300000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +32,7 @@
         "Details": "An experiment in logistical support, the Zeus 6Y retains the AC5, but downgrades the LRM15 to a LRM10.  This allowed for the Large Laser to be 'upgraded' to a Binary Laser Cannon.",
         "Icon": "uixTxrIcon_zeus"
     },
-    "simGameMechPartCost": 970000,
+    "simGameMechPartCost": 930000,
     "Version": 1,
     "Locations": [
         {

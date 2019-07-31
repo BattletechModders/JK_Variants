@@ -1,19 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
             "unit_mech",
             "unit_medium",
+            "unit_jumpOK", 
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_enforcer_ENF-3R",
     "HeraldryID": null,
     "Description": {
-        "Cost": 5160000,
+        "Cost": 4300000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "The precursor to the Enforcer 4R, the 3R models originally mounted twin Medium Lasers in the left arm along with 2 extra Heat Sinks to help the 'Mech dissipate heat.  It was also slightly better protected, as it had an additional ton of armor.",
         "Icon": "uixTxrIcon_enforcer"
     },
-    "simGameMechPartCost": 520000,
+    "simGameMechPartCost": 430000,
     "Version": 1,
     "Locations": [
         {

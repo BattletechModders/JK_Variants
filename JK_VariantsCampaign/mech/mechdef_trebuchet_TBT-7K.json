@@ -1,19 +1,25 @@
 {
     "MechTags": {
         "items": [
-            "unit_release",
             "unit_mech",
-            "unit_medium",
-            "unit_ready",
+            "unit_medium", 
+            "unit_range_long",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_trebuchet_TBT-7K",
     "HeraldryID": null,
     "Description": {
-        "Cost": 5640000,
+        "Cost": 5200000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +30,7 @@
         "Details": "Almost an entirely new 'Mech, the Trebuchet 7K moves away from its missile support to direct fire support, using a PPC and AC5 along with a SRM-2 for some close in support.",
         "Icon": "uixTxrIcon_trebuchet"
     },
-    "simGameMechPartCost": 560000,
+    "simGameMechPartCost": 520000,
     "Version": 1,
     "Locations": [
         {

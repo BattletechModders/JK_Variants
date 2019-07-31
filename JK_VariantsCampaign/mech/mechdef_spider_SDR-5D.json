@@ -1,19 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
             "unit_mech",
             "unit_light",
+            "unit_jumpOK", 
+            "unit_range_short",
+            "unit_speed_high",
+            "unit_armor_low",
             "unit_lance_vanguard",
             "unit_role_scout",
-            "unit_release"
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_spider_SDR-5D",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3140000,
+        "Cost": 3000000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "The 5D Spider is geared towards anti-infantry work, removing one of the medium lasers and replacing it with a Flamer in the right arm.  However, the combination of its speed with the Flamer can deliver an unpleasant surprise.",
         "Icon": "uixTxrIcon_spider"
     },
-    "simGameMechPartCost": 310000,
+    "simGameMechPartCost": 300000,
     "Version": 1,
     "Locations": [
         {

@@ -1,19 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_release",
             "unit_mech",
-            "unit_medium",
-            "unit_ready",
+            "unit_medium", 
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_tank",
-            "unit_role_brawler"
+            "unit_role_brawler",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_hunchback_HBK-4SP",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6090000,
+        "Cost": 5600000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
@@ -21,10 +30,10 @@
         "UIName": "Hunchback HBK-4SP",
         "Id": "mechdef_hunchback_HBK-4SP",
         "Name": "Hunchback",
-        "Details": "TThe 4SP variant of the Hunchback replaces the Autocannon with two SRM6 launchers. This has the potential of doing more damage than the standard model, though the damage is more spread out.  This firepower is supplemented by two Medium Lasers in each arm.",
+        "Details": "The 4SP variant of the Hunchback replaces the Autocannon with two SRM6 launchers. This has the potential of doing more damage than the standard model, though the damage is more spread out.  This firepower is supplemented by two Medium Lasers in each arm.",
         "Icon": "uixTxrIcon_hunchback"
     },
-    "simGameMechPartCost": 610000,
+    "simGameMechPartCost": 560000,
     "Version": 1,
     "Locations": [
         {

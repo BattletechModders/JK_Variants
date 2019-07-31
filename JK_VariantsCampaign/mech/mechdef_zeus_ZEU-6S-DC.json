@@ -3,17 +3,25 @@
         "items": [
             "unit_mech",
             "unit_assault",
+            "unit_indirectFire", 
+            "unit_range_long",
             "unit_lance_tank",
-            "unit_indirectFire",
-            "unit_role_brawler",
-            "unit_release"
+            "unit_role_sniper",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_zeus_ZEU-6S-DC",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10210000,
+        "Cost": 13000000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +32,7 @@
         "Details": "The Zeus 6S-DC moves faster than many other assault 'Mechs and mounts decent long-range weaponry. Its armor is very good, but it can get stuck in a tight spot if forced into closer-range fights.",
         "Icon": "uixTxrIcon_zeus"
     },
-    "simGameMechPartCost": 970000,
+    "simGameMechPartCost": 1300000,
     "Version": 1,
     "Locations": [
         {

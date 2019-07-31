@@ -2,17 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_release",
-            "unit_light",
+            "unit_light", 
+            "unit_range_short",
+            "unit_speed_high",
+            "unit_armor_high",
             "unit_lance_vanguard",
-            "unit_role_brawler"
+            "unit_role_brawler",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_locust_LCT-1L",
     "HeraldryID": null,
     "Description": {
-        "Cost": 2890000,
+        "Cost": 2000000,
         "Rarity": 0,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +33,7 @@
         "Details": "The LCT-1L was an attempt to allow the 'Mech to operate at even higher speeds by adding Triple Strength Myomer to the design.  Initial testing has resulted in an increase in Melee Capabilities, and a minor boost to speed.   The LCT-1L load out is identical to that of the Locust 1V.",
         "Icon": "uixTxrIcon_locust"
     },
-    "simGameMechPartCost": 290000,
+    "simGameMechPartCost": 200000,
     "Version": 1,
     "Locations": [
         {

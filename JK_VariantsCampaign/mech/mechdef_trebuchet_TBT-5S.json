@@ -1,19 +1,21 @@
 {
     "MechTags": {
         "items": [
-            "unit_release",
             "unit_mech",
-            "unit_medium",
-            "unit_ready",
+            "unit_medium", 
+            "unit_range_medium",
             "unit_lance_vanguard",
-            "unit_role_brawler"
+            "unit_role_brawler",
+            "unit_release",
+            "Marik",
+            "Steiner"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_trebuchet_TBT-5S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 5640000,
+        "Cost": 5600000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,

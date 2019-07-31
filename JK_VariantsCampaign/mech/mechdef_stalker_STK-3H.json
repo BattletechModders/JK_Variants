@@ -3,17 +3,26 @@
         "items": [
             "unit_mech",
             "unit_assault",
-            "unit_indirectFire",
+            "unit_indirectFire", 
+            "unit_range_long",
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
+            "unit_hot",
             "unit_lance_support",
             "unit_role_sniper",
-            "unit_release"
+            "unit_release",
+            "Marik",
+            "Steiner",
+            "MagistracyOfCanopus",
+            "TaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_stalker_STK-3H",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10440000,
+        "Cost": 10300000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "The Stalker 3H was intended as a seige 'Mech.  Replacing the twin LRM-10s and Large Lasers for paired LRM-20s, the STK-3H is a powerful fire support 'Mech.",
         "Icon": "uixTxrIcon_stalker"
     },
-    "simGameMechPartCost": 1040000,
+    "simGameMechPartCost": 1030000,
     "Version": 1,
     "Locations": [
         {

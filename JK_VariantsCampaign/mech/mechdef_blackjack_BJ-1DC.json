@@ -2,17 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_medium",
+            "unit_medium", 
+            "unit_range_long",
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_assassin",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_blackjack_BJ-1DC",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4430000,
+        "Cost": 4400000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,

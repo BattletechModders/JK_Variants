@@ -1,19 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
             "unit_mech",
             "unit_light",
+            "unit_jumpOK", 
+            "unit_range_short",
+            "unit_speed_high",
+            "unit_armor_low",
             "unit_lance_vanguard",
             "unit_role_scout",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_spider_SDR-5K",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3140000,
+        "Cost": 2900000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "An anti-infantry variant, the 5K mounts Machine Guns in each arm along with a single Medium Laser in its center torso.  In order to make room for the added weapons, a pair of JumpJets are removed, hampering some of the Spider's vaunted mobility.",
         "Icon": "uixTxrIcon_spider"
     },
-    "simGameMechPartCost": 310000,
+    "simGameMechPartCost": 290000,
     "Version": 1,
     "Locations": [
         {

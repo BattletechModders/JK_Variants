@@ -2,17 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_release",
-            "unit_light",
+            "unit_light", 
+            "unit_range_medium",
+            "unit_speed_high",
+            "unit_armor_high",
             "unit_lance_vanguard",
-            "unit_role_scout"
+            "unit_role_scout",
+            "unit_release",
+            "Davion",
+            "Liao",
+            "Marik",
+            "Steiner",
+            "Kurita",
+            "MagistracyOfCanopus",
+            "TaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_locust_LCT-1E",
     "HeraldryID": null,
     "Description": {
-        "Cost": 1890000,
+        "Cost": 2200000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +33,7 @@
         "Details": "The Locust 1E was an attempt to turn the Locust into a viable front line mech by increasing its firepower with an additional Medium Laser.  Having removed its reliance on ammunition, the Locust is able to operate for an extended amount of time without supplies.",
         "Icon": "uixTxrIcon_locust"
     },
-    "simGameMechPartCost": 190000,
+    "simGameMechPartCost": 220000,
     "Version": 1,
     "Locations": [
         {

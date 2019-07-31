@@ -3,17 +3,25 @@
         "items": [
             "unit_mech",
             "unit_assault",
-            "unit_indirectFire",
+            "unit_indirectFire", 
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
+            "unit_hot",
             "unit_lance_assassin",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "Marik",
+            "Steiner",
+            "MagistracyOfCanopus",
+            "TaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_stalker_STK-4N",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10440000,
+        "Cost": 10600000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
@@ -21,10 +29,10 @@
         "UIName": "Stalker STK-4N",
         "Id": "mechdef_stalker_STK-4N",
         "Name": "Stalker",
-        "Details": "By removing one of the LRM launchers and adding more Heat Sinks, the Stalker 4N can dish out more damage per round without as much fear of baking the pilot alive.",
+        "Details": "The Stalker STK-4N removes an LRM launchers in order to add more Heat Sinks.  While it doesn't add any additional weapons, the extra Heat Sinks allow for a more consistent output of damage without over heating.",
         "Icon": "uixTxrIcon_stalker"
     },
-    "simGameMechPartCost": 1040000,
+    "simGameMechPartCost": 1060000,
     "Version": 1,
     "Locations": [
         {

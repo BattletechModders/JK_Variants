@@ -2,17 +2,24 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_assault",
+            "unit_assault", 
+            "unit_range_long",
+            "unit_range_medium",
+            "unit_hot",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_zeus_ZEU-6A",
     "HeraldryID": null,
     "Description": {
-        "Cost": 9710000,
+        "Cost": 10100000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +30,7 @@
         "Details": "Another Succession Wars variant, the ZEUS 6A was designed as a close in brawler with three tandem fire SRM6s mounted in place of the more standard LRM15.  However, it also retains some of its long range threat by swapping out the AC5 for a PPC.",
         "Icon": "uixTxrIcon_zeus"
     },
-    "simGameMechPartCost": 970000,
+    "simGameMechPartCost": 1010000,
     "Version": 1,
     "Locations": [
         {

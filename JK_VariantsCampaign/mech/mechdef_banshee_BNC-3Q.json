@@ -2,17 +2,23 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_assault",
+            "unit_assault", 
+            "unit_range_medium",
+            "unit_armor_high",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "Marik",
+            "NotKurita",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_banshee_BNC-3Q",
     "HeraldryID": null,
     "Description": {
-        "Cost": 11650000,
+        "Cost": 11600000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +29,7 @@
         "Details": "The Banshee 3Q variant lacks the long distance capabilities of its predecessor, replacing its AC10 and PPC with an AC20 and enough ammo to last in a sustained fight.",
         "Icon": "uixTxrIcon_banshee"
     },
-    "simGameMechPartCost": 1170000,
+    "simGameMechPartCost": 1160000,
     "Version": 1,
     "Locations": [
         {

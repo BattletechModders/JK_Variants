@@ -1,19 +1,23 @@
 {
     "MechTags": {
         "items": [
-            "unit_indirectFire",
             "unit_mech",
             "unit_heavy",
+            "unit_indirectFire", 
+            "unit_range_long",
+            "unit_speed_high",
+            "unit_armor_high",
             "unit_lance_support",
-            "unit_role_sniper",
-            "unit_release"
+            "unit_role_brawler",
+            "unit_release",
+            "Kurita"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_dragon_DRG-1C",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6850000,
+        "Cost": 6800000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +28,7 @@
         "Details": "The DRG-1C uses an AC2 instead of the more standard AC5.  This allows it to have extreme reach across the battlefield, but at a reduced damage rate.",
         "Icon": "uixTxrIcon_dragon"
     },
-    "simGameMechPartCost": 690000,
+    "simGameMechPartCost": 680000,
     "Version": 1,
     "Locations": [
         {
