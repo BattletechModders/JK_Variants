@@ -1,0 +1,200 @@
+{
+    "Description": {
+        "Cost": 1900000,
+        "Rarity": 0,
+        "Purchasable": true,
+        "Manufacturer": "",
+        "Model": "",
+        "UIName": "Javelin",
+        "Id": "chassisdef_javelin_JVN-10N",
+        "Name": "Javelin",
+        "Details": "A compromise between speed and power, the Javelin is an excellent recon 'Mech although it suffers in long term engagements due to its limited amount of missile ammunition.  It is at its best when paired up with other fast moving lights acting in a close support role.",
+        "Icon": "uixTxrIcon_javelin"
+    },
+    "MovementCapDefID": "movedef_javelin",
+    "PathingCapDefID": "pathingdef_light",
+    "HardpointDataDefID": "hardpointdatadef_javelin",
+    "PrefabIdentifier": "chrprfmech_javelinbase-001",
+    "PrefabBase": "javelin",
+    "Tonnage": 30,
+    "InitialTonnage": 15,
+    "weightClass": "LIGHT",
+    "BattleValue": 1892000,
+    "Heatsinks": 0,
+    "TopSpeed": 85,
+    "TurnRadius": 90,
+    "MaxJumpjets": 6,
+    "Stability": 100,
+    "StabilityDefenses": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SpotterDistanceMultiplier": 1,
+    "VisibilityMultiplier": 1,
+    "SensorRangeMultiplier": 1,
+    "Signature": 0,
+    "Radius": 4,
+    "PunchesWithLeftArm": false,
+    "MeleeDamage": 40,
+    "MeleeInstability": 30,
+    "MeleeToHitModifier": 0,
+    "DFADamage": 40,
+    "DFAToHitModifier": 0,
+    "DFASelfDamage": 40,
+    "DFAInstability": 40,
+    "Locations": [
+        {
+            "Location": "Head",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 45,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "LeftArm",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 50,
+            "MaxRearArmor": -1,
+            "InternalStructure": 25
+        },
+        {
+            "Location": "LeftTorso",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+           ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 70,
+            "MaxRearArmor": 35,
+            "InternalStructure": 35
+        },
+        {
+            "Location": "CenterTorso",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 100,
+            "MaxRearArmor": 50,
+            "InternalStructure": 50
+        },
+        {
+            "Location": "RightTorso",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+           ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 70,
+            "MaxRearArmor": 35,
+            "InternalStructure": 35
+        },
+        {
+            "Location": "RightArm",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 50,
+            "MaxRearArmor": -1,
+            "InternalStructure": 25
+        },
+        {
+            "Location": "LeftLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 70,
+            "MaxRearArmor": -1,
+            "InternalStructure": 35
+        },
+        {
+            "Location": "RightLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 70,
+            "MaxRearArmor": -1,
+            "InternalStructure": 35
+        }
+    ],
+    "LOSSourcePositions": [
+        {
+            "x": 0,
+            "y": 9.5,
+            "z": 0.5
+        },
+        {
+            "x": -2.5,
+            "y": 8.5,
+            "z": -0.5
+        },
+        {
+            "x": 2.5,
+            "y": 8.5,
+            "z": -0.5
+        }
+    ],
+    "LOSTargetPositions": [
+        {
+            "x": 0,
+            "y": 9.5,
+            "z": 0.5
+        },
+        {
+            "x": -2.5,
+            "y": 8.5,
+            "z": -0.5
+        },
+        {
+            "x": 2.5,
+            "y": 8.5,
+            "z": -0.5
+        },
+        {
+            "x": -1.5,
+            "y": 3,
+            "z": 0.5
+        },
+        {
+            "x": 1.5,
+            "y": 3,
+            "z": 0.5
+        }
+    ],
+    "VariantName": "JVN-10N",
+    "ChassisTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "StockRole": "Close Support",
+    "YangsThoughts": "Seemed like every Fed Recon Lance my old unit ran into had a Javelin 10N.  They could be particularly devastating when used in pairs.  I always felt a bit uneasy about the lack of ammo though."
+}
