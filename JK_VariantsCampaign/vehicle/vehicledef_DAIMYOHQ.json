@@ -9,7 +9,7 @@
       "Rarity" : 3,
       "Purchasable" : false
    },
-   "ChassisID" : "vehiclechassisdef_DIAMYOHQ",
+   "ChassisID" : "vehiclechassisdef_DAIMYOHQ",
    "VehicleTags": {
       "items": [
          "unit_vehicle",
@@ -99,6 +99,17 @@
          "MountedLocation" : "Front",
          "HardpointSlot" : -1,
          "DamageLevel" : "Functional"
-      }
+      },
+		{
+			"MountedLocation": "Front",
+			"ComponentDefID": "Gear_Cockpit_Tacticon_B2000_Battle_Computer",
+			"SimGameUID": "",
+			"ComponentDefType": "Upgrade",
+			"HardpointSlot": -1,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
+		}
    ]
 }

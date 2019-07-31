@@ -45,34 +45,20 @@
 		},
 		{
 			"Location" : "Rear",
-			"CurrentArmor" : 100,
+			"CurrentArmor" : 110,
 			"CurrentInternalStructure" : 25,
-			"AssignedArmor" : 100,
+			"AssignedArmor" : 110,
 			"DamageLevel" : "Functional"
 		},
 		{
 			"Location" : "Turret",
-			"CurrentArmor" : 120,
+			"CurrentArmor" : 110,
 			"CurrentInternalStructure" : 25,
-			"AssignedArmor" : 120,
+			"AssignedArmor" : 110,
 			"DamageLevel" : "Functional"
 		}
    ],
    "inventory" : [
-        {
-         "ComponentDefID" : "Weapon_MachineGun_MachineGun_0-STOCK",
-         "ComponentDefType" : "Weapon",
-         "MountedLocation" : "Turret",
-		 "HardpointSlot" : 0,
-		 "DamageLevel" : "Functional"
-        },
-	    {
-         "ComponentDefID" : "Weapon_MachineGun_MachineGun_0-STOCK",
-         "ComponentDefType" : "Weapon",
-         "MountedLocation" : "Turret",
-		 "HardpointSlot" : 1,
-		 "DamageLevel" : "Functional"
-        },
 	    {
          "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
          "ComponentDefType" : "Weapon",
@@ -93,20 +79,6 @@
          "MountedLocation" : "Turret",
 		 "HardpointSlot" : 1,
 		 "DamageLevel" : "Functional"
-        },
-	    {
-         "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
-         "ComponentDefType" : "Weapon",
-         "MountedLocation" : "Turret",
-		 "HardpointSlot" : 1,
-		 "DamageLevel" : "Functional"
-		},
-		{
-         "ComponentDefID" : "Ammo_AmmunitionBox_Generic_MG",
-         "ComponentDefType" : "AmmunitionBox",
-         "MountedLocation" : "Front",
-		 "HardpointSlot" : -1,
-		 "DamageLevel" : "Functional"
-		}
+        }
    ]
 }

@@ -45,16 +45,16 @@
 		},
 		{
 			"Location" : "Rear",
-			"CurrentArmor" : 100,
+			"CurrentArmor" : 110,
 			"CurrentInternalStructure" : 25,
-			"AssignedArmor" : 100,
+			"AssignedArmor" : 110,
 			"DamageLevel" : "Functional"
 		},
 		{
 			"Location" : "Turret",
-			"CurrentArmor" : 120,
+			"CurrentArmor" : 110,
 			"CurrentInternalStructure" : 25,
-			"AssignedArmor" : 120,
+			"AssignedArmor" : 110,
 			"DamageLevel" : "Functional"
 		}
    ],
@@ -74,14 +74,21 @@
 		 "DamageLevel" : "Functional"
         },
 	    {
-         "ComponentDefID" : "Weapon_SRM_SRM2_0-STOCK",
+         "ComponentDefID" : "Weapon_SRM_SRM4_0-STOCK",
          "ComponentDefType" : "Weapon",
          "MountedLocation" : "Turret",
 		 "HardpointSlot" : 1,
 		 "DamageLevel" : "Functional"
         },
 	    {
-         "ComponentDefID" : "Weapon_SRM_SRM2_0-STOCK",
+         "ComponentDefID" : "Weapon_SRM_SRM4_0-STOCK",
+         "ComponentDefType" : "Weapon",
+         "MountedLocation" : "Turret",
+		 "HardpointSlot" : 1,
+		 "DamageLevel" : "Functional"
+		},
+	    {
+         "ComponentDefID" : "Weapon_SRM_SRM4_0-STOCK",
          "ComponentDefType" : "Weapon",
          "MountedLocation" : "Turret",
 		 "HardpointSlot" : 1,
