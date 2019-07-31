@@ -2,17 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
+            "unit_heavy", 
+            "unit_range_medium",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_thunderbolt_TDR-5S-T_Tallman",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6200000,
+        "Cost": 8300000,
         "Rarity": 5,
         "Purchasable": false,
         "Manufacturer": null,
@@ -23,7 +33,7 @@
         "Details": "The personal 'Mech of Bremond DMM Commander Leftenant-General Mary Tallman during the DCMS's Third Succession War invasion of Galtor III. She had the 'Mech stripped of everything save the Large Laser, and installed a brace of 4 Medium Lasers in each torso. An additional 8 Heat Sinks were added.",
         "Icon": "uixTxrIcon_thunderbolt"
     },
-    "simGameMechPartCost": 760000,
+    "simGameMechPartCost": 830000,
     "Version": 1,
     "Locations": [
         {

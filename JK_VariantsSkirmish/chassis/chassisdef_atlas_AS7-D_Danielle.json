@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 11400000,
+        "Cost": 10900000,
         "Rarity": 5,
         "Purchasable": false,
         "Manufacturer": "Custom",
@@ -8,7 +8,7 @@
         "UIName": "Atlas",
         "Id": "chassisdef_atlas_AS7-D_Danielle",
         "Name": "Atlas",
-        "Details": "Piloted by Wolf's Dragoons Captain Danielle Rondema, this modified Atlas carried three medium lasers in each arm, trading away the SRM rack to do so. The additional heat was dissipated by two additional heat sinks that replaced the rear-firing medium lasers.",
+        "Details": "Piloted by Wolf's Dragoons Captain Danielle Rondema, this modified Atlas carried three medium lasers in each arm, trading away the SRM rack to do so. The additional heat was dissipated by two additional heat sinks that replaced two of the medium lasers.",
         "Icon": "uixTxrIcon_atlas"
     },
     "MovementCapDefID": "movedef_atlas_AS7-D",
@@ -206,5 +206,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Close Assault",
-    "YangsThoughts": "Piloted by Wolf's Dragoons Captain Danielle Rondema, this modified Atlas carried three medium lasers in each arm, trading away the SRM rack to do so. The additional heat was dissipated by two additional heat sinks that replaced the rear-firing medium lasers.\n\n<b>Faction:</b> Beta Regiment, Rondema's Company, Rondema's Roughnecks (Wolf's Dragoons)\n\n<b>Rarity:</b> Custom"
+    "YangsThoughts": "Piloted by Wolf's Dragoons Captain Danielle Rondema, this modified Atlas carried three medium lasers in each arm, trading away the SRM rack to do so. The additional heat was dissipated by two additional heat sinks that replaced two of the medium lasers."
 }

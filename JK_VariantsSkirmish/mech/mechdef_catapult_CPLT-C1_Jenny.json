@@ -2,17 +2,26 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
-            "unit_release",
+            "unit_heavy", 
+            "unit_range_medium",
+            "unit_hot",
             "unit_lance_assassin",
-            "unit_role_brawler"
+            "unit_role_brawler",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_catapult_CPLT-C1_Jenny",
     "HeraldryID": null,
     "Description": {
-        "Cost": 7050500,
+        "Cost": 7500000,
         "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +32,7 @@
         "Details": "The personal ride of MechWarrior Jenny Templeton of the Chesterton Reserves. This custom variant of the Catapult C1, the <b>Butterbee</b>, replaces the standard arm-mounted LRM-15s with two SRM-6 missile launchers in each arm, giving it deadly close combat capability.",
         "Icon": "uixTxrIcon_catapult"
     },
-    "simGameMechPartCost": 740000,
+    "simGameMechPartCost": 750000,
     "Version": 1,
     "Locations": [
         {

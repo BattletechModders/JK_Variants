@@ -3,17 +3,26 @@
         "items": [
             "unit_mech",
             "unit_assault",
-            "unit_jumpOK",
-            "unit_release",
+            "unit_jumpOK", 
+            "unit_range_medium",
+            "unit_speed_high",
             "unit_lance_tank",
-            "unit_role_brawler"
+            "unit_role_brawler",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_victor_VTR-9B_Li",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8400000,
+        "Cost": 11000000,
         "Rarity": 5,
         "Purchasable": false,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "The custom Victor used by Tai-sho Li Dok To, this variant removed all the standard weapons and replaced them with a single LRM-15 mounted in the left torso and ten Medium Lasers carried in the 'Mech's right arm, greatly reducing ammo dependency.",
         "Icon": "uixTxrIcon_victor"
     },
-    "simGameMechPartCost": 960000,
+    "simGameMechPartCost": 1100000,
     "Version": 1,
     "Locations": [
         {

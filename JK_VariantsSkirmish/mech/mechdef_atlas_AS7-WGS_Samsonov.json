@@ -2,19 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_assault",
-            "unit_release",
-            "unit_ready",
+            "unit_assault", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_tank",
             "unit_role_vanguard",
-            "unit_role_sniper"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_atlas_AS7-WGS_Samsonov",
     "HeraldryID": null,
     "Description": {
-        "Cost": 11200000,
+        "Cost": 12800000,
         "Rarity": 5,
         "Purchasable": false,
         "Manufacturer": null,
@@ -25,7 +33,7 @@
         "Details": "The personal 'Mech of Galedon Military District commander Warlord Grieg Samsonov during the DCMS's Third Succession War invasion of Galtor III in 3025, only the massive autocannon remains, with the rest of the standard weaponry replaced with a PPC mounted in each arm. The remaining weight and space is devoted to six additional heat sinks.",
         "Icon": "uixTxrIcon_atlas"
     },
-    "simGameMechPartCost": 1300000,
+    "simGameMechPartCost": 1280000,
     "Version": 1,
     "Locations": [
         {
