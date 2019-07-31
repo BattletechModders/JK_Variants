@@ -1,20 +1,20 @@
 {
    "Description" : {
-      "Id" : "movedef_annihilator_ANH-1A",
-      "Name" : "MovementCapabilitiesDef for Annihilator ANH-1A",
+      "Id" : "movedef_MERKAVA",
+      "Name" : "MovementCapabilitiesDef for Merkava Heavy Tank",
       "Details" : "",
       "Icon" : ""
    },
-   "MaxWalkDistance" : 70.0,
-   "MaxSprintDistance" : 120.0,
+   "MaxWalkDistance" : 120.0,
+   "MaxSprintDistance" : 200.0,
    "WalkVelocity" : 20.0,
    "RunVelocity" : 28.0,
    "SprintVelocity" : 31.0,
    "LimpVelocity" : 8.0,
    "WalkAcceleration" : 15.0,
-   "SprintAcceleration" : 20.0,
-   "MaxRadialVelocity" : 60.0,
-   "MaxRadialAcceleration" : 180.0,
+   "SprintAcceleration" : 40.0,
+   "MaxRadialVelocity" : 300.0,
+   "MaxRadialAcceleration" : 900.0,
    "MaxJumpVel" : 80.0,
    "MaxJumpAccel" : 30.0,
    "MaxJumpVerticalAccel" : 60.0

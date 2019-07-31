@@ -1,12 +1,12 @@
 {
    "Description" : {
-      "Id" : "movedef_annihilator_ANH-1A",
-      "Name" : "MovementCapabilitiesDef for Annihilator ANH-1A",
+      "Id" : "movedef_SAVANNAHMASTER",
+      "Name" : "MovementCapabilitiesDef for Savannah Master Hovercraft",
       "Details" : "",
       "Icon" : ""
    },
-   "MaxWalkDistance" : 70.0,
-   "MaxSprintDistance" : 120.0,
+   "MaxWalkDistance" : 340.0,
+   "MaxSprintDistance" : 555.0,
    "WalkVelocity" : 20.0,
    "RunVelocity" : 28.0,
    "SprintVelocity" : 31.0,

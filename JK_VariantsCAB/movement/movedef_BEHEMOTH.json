@@ -1,7 +1,7 @@
 {
    "Description" : {
-      "Id" : "movedef_annihilator_ANH-1A",
-      "Name" : "MovementCapabilitiesDef for Annihilator ANH-1A",
+      "Id" : "movedef_BEHEMOTH",
+      "Name" : "MovementCapabilitiesDef for Behemoth",
       "Details" : "",
       "Icon" : ""
    },
