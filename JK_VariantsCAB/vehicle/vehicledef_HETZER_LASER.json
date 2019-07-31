@@ -1,0 +1,82 @@
+{
+   "Version" : 1,
+   "Description" : {
+      "Id" : "vehicledef_HETZER_LASER",
+      "Name" : "Hetzer Laser",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 564,
+      "Rarity" : 5,
+      "Purchasable" : false
+   },
+   "ChassisID" : "vehiclechassisdef_HETZER_LASER",
+   "VehicleTags": {
+      "items": [
+         "unit_vehicle",
+         "unit_medium",
+         "unit_wheels",
+         "unit_release"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "Locations" : [
+		{
+			"Location" : "Front",
+			"CurrentArmor" : 170,
+			"CurrentInternalStructure" : 20,
+			"AssignedArmor" : 170,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Left",
+			"CurrentArmor" : 130,
+			"CurrentInternalStructure" : 20,
+			"AssignedArmor" : 130,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Right",
+			"CurrentArmor" : 130,
+			"CurrentInternalStructure" : 20,
+			"AssignedArmor" : 130,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Rear",
+			"CurrentArmor" : 130,
+			"CurrentInternalStructure" : 20,
+			"AssignedArmor" : 130,
+			"DamageLevel" : "Functional"
+		}
+   ],
+   "inventory" : [
+      {
+         "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+         "ComponentDefType" : "Weapon",
+         "MountedLocation" : "Front",
+         "HardpointSlot" : 0,
+         "DamageLevel" : "Functional"
+      },
+      {
+         "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+         "ComponentDefType" : "Weapon",
+         "MountedLocation" : "Front",
+         "HardpointSlot" : 1,
+         "DamageLevel" : "Functional"
+      },
+      {
+         "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+         "ComponentDefType" : "Weapon",
+         "MountedLocation" : "Front",
+         "HardpointSlot" : 2,
+         "DamageLevel" : "Functional"
+      },
+      {
+         "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+         "ComponentDefType" : "Weapon",
+         "MountedLocation" : "Front",
+         "HardpointSlot" : 3,
+         "DamageLevel" : "Functional"
+      }
+   ]
+}

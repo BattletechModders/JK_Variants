@@ -1,0 +1,55 @@
+{
+   "Version" : 1,
+   "Description" : {
+      "Id" : "vehicledef_MASHTruck-ICE",
+      "Name" : "M.A.S.H. Truck I.C.E.",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 564,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "ChassisID" : "vehiclechassisdef_MASHTruck-ICE",
+   "VehicleTags": {
+      "items": [
+         "unit_vehicle",
+         "unit_light",
+			"unit_wheels",
+			"unit_vehicle_mashTruck",
+			"unit_vehicle_mobileHQ",
+			"unit_noncombatant"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "Locations" : [
+		{
+			"Location" : "Front",
+			"CurrentArmor" : 90,
+			"CurrentInternalStructure" : 10,
+			"AssignedArmor" : 90,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Left",
+			"CurrentArmor" : 90,
+			"CurrentInternalStructure" : 10,
+			"AssignedArmor" : 90,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Right",
+			"CurrentArmor" : 90,
+			"CurrentInternalStructure" : 10,
+			"AssignedArmor" : 90,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Rear",
+			"CurrentArmor" : 90,
+			"CurrentInternalStructure" : 10,
+			"AssignedArmor" : 90,
+			"DamageLevel" : "Functional"
+		}
+   ],
+   "inventory" : []
+}

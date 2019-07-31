@@ -1,0 +1,105 @@
+{
+   "Version" : 1,
+   "Description" : {
+      "Id" : "vehicledef_BADGER-D",
+      "Name" : "Badger",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 993,
+      "Rarity" : 3,
+      "Purchasable" : false
+   },
+   "ChassisID" : "vehiclechassisdef_BADGER-D",
+   "VehicleTags": {
+        "items" : [
+            "unit_vehicle",    
+            "unit_light",
+            "unit_tracks",  
+            "unit_range_medium", 
+            "unit_armor_low",  
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
+        ],
+      "tagSetSourceFile": ""
+   },
+   "Locations" : [
+		{
+			"Location" : "Front",
+			"CurrentArmor" : 100,
+			"CurrentInternalStructure" : 15,
+			"AssignedArmor" : 100,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Left",
+			"CurrentArmor" : 90,
+			"CurrentInternalStructure" : 15,
+			"AssignedArmor" : 90,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Right",
+			"CurrentArmor" : 90,
+			"CurrentInternalStructure" : 15,
+			"AssignedArmor" : 90,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Rear",
+			"CurrentArmor" : 70,
+			"CurrentInternalStructure" : 15,
+			"AssignedArmor" : 70,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Turret",
+			"CurrentArmor" : 90,
+			"CurrentInternalStructure" : 15,
+			"AssignedArmor" : 90,
+			"DamageLevel" : "Functional"
+		}
+   ],
+   "inventory" : [
+       {
+           "ComponentDefID" : "Weapon_Laser_SmallLaser_0-STOCK",
+           "ComponentDefType" : "Weapon",
+           "MountedLocation" : "Left",
+           "HardpointSlot" : 0,
+           "DamageLevel" : "Functional"
+       },
+       {
+           "ComponentDefID" : "Weapon_Laser_SmallLaser_0-STOCK",
+           "ComponentDefType" : "Weapon",
+           "MountedLocation" : "Right",
+           "HardpointSlot" : 0,
+           "DamageLevel" : "Functional"
+       },
+       {
+           "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+           "ComponentDefType" : "Weapon",
+           "MountedLocation" : "Turret",
+           "HardpointSlot" : 0,
+           "DamageLevel" : "Functional"
+       },
+       {
+           "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+           "ComponentDefType" : "Weapon",
+           "MountedLocation" : "Turret",
+           "HardpointSlot" : 1,
+           "DamageLevel" : "Functional"
+       },
+       {
+           "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+           "ComponentDefType" : "Weapon",
+           "MountedLocation" : "Turret",
+           "HardpointSlot" : 2,
+           "DamageLevel" : "Functional"
+       }
+   ]
+}

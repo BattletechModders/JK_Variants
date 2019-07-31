@@ -1,0 +1,91 @@
+{
+   "Version" : 1,
+   "Description" : {
+      "Id" : "vehicledef_MARKSMAN",
+      "Name" : "Marksman",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 564,
+      "Rarity" : 5,
+      "Purchasable" : false
+   },
+   "ChassisID" : "vehiclechassisdef_MARKSMAN",
+   "VehicleTags": {
+      "items": [
+         "unit_vehicle",
+         "unit_heavy",
+         "unit_tracks",
+         "unit_release",
+         "unit_noncombatant",
+         "unit_vehicle_artillery"
+      ],
+      "tagSetSourceFile": ""
+   },
+   "Locations" : [
+		{
+			"Location" : "Front",
+			"CurrentArmor" : 245,
+			"CurrentInternalStructure" : 35,
+			"AssignedArmor" : 245,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Left",
+			"CurrentArmor" : 95,
+			"CurrentInternalStructure" : 35,
+			"AssignedArmor" : 95,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Right",
+			"CurrentArmor" : 95,
+			"CurrentInternalStructure" : 35,
+			"AssignedArmor" : 95,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Rear",
+			"CurrentArmor" : 95,
+			"CurrentInternalStructure" : 35,
+			"AssignedArmor" : 95,
+			"DamageLevel" : "Functional"
+		},
+		{
+			"Location" : "Turret",
+			"CurrentArmor" : 95,
+			"CurrentInternalStructure" : 35,
+			"AssignedArmor" : 95,
+			"DamageLevel" : "Functional"
+		}
+   ],
+   "inventory" : [
+      {
+         "ComponentDefID" : "Weapon_SniperArtillery",
+         "ComponentDefType" : "Weapon",
+         "MountedLocation" : "Front",
+         "HardpointSlot" : 0,
+         "DamageLevel" : "Functional"
+      },
+      {
+         "ComponentDefID" : "Ammo_AmmunitionBox_Generic_S",
+         "ComponentDefType" : "AmmunitionBox",
+         "MountedLocation" : "Front",
+         "HardpointSlot" : -1,
+         "DamageLevel" : "Functional"
+      },
+      {
+         "ComponentDefID" : "Ammo_AmmunitionBox_Generic_S",
+         "ComponentDefType" : "AmmunitionBox",
+         "MountedLocation" : "Front",
+         "HardpointSlot" : -1,
+         "DamageLevel" : "Functional"
+      },
+      {
+         "ComponentDefID" : "Weapon_Laser_LargeLaser_0-STOCK",
+         "ComponentDefType" : "Weapon",
+         "MountedLocation" : "Turret",
+         "HardpointSlot" : 0,
+         "DamageLevel" : "Functional"
+      }
+   ]
+}
