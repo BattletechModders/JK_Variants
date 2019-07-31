@@ -2,17 +2,26 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_assault",
+			"unit_assault",
+			"unit_range_long",
+            "unit_speed_low",
+            "unit_lance_tank",
+            "unit_role_brawler",
             "unit_release",
-            "unit_ready",
-            "unit_role_brawler"
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_annihilator_ANH-1A",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12980000,
+        "Cost": 11100000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +32,7 @@
         "Details": "The Annihilator was known only from experimental designs and blueprints.  No models had ever been seen and it was thought a lost design.  That is, until it appeared with Wolf's Dragoons in 3009.  The Annihilator is slow and well armored and packs a serious amount of firepower with four AC10s backed by four Medium Lasers.",
         "Icon": "uixTxrIcon_annihilator"
     },
-    "simGameMechPartCost": 1300000,
+    "simGameMechPartCost": 1110000,
     "Version": 1,
     "Locations": [
         {

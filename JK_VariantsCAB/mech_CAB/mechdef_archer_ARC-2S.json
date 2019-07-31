@@ -1,20 +1,28 @@
 {
   "MechTags": {
     "items": [
-      "unit_indirectFire",
       "unit_mech",
       "unit_heavy",
-      "unit_release",
+      "unit_indirectFire", 
+      "unit_range_long",
+      "unit_range_medium",
+      "unit_speed_low",
+      "unit_armor_high",
+      "unit_hot",
       "unit_lance_support",
-      "unit_role_sniper",
-	  "unit_role_brawler"
+      "unit_role_brawler",
+      "unit_release",
+      "NotLiao",
+      "Steiner",
+      "NotMagistracyOfCanopus",
+      "NotTaurianConcordat"
     ],
     "tagSetSourceFile": ""
   },
   "ChassisID": "chassisdef_archer_ARC-2S",
   "HeraldryID": null,
   "Description": {
-    "Cost": 1582400,
+    "Cost": 8600000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -22,10 +30,10 @@
     "UIName": "Archer ARC-2S",
     "Id": "mechdef_archer_ARC-2S",
     "Name": "Archer",
-    "Details": "The 2S was another modification made to allow the Archer to defend itself more easily against an enemy that managed to close range with it. Built for House Steiner in 2915, the 2S replaced the LRM-20 launchers with two LRM-15 launchers and used the saved weight to add two SRM-4 launchers, carried in either side torso along with one ton of ammunition per launcher, giving it additional short range firepower..",
+    "Details": "The 2S was another modification made to allow the Archer to defend itself more easily against an enemy that managed to close range with it. Built for House Steiner in 2915, the 2S replaced the LRM-20 launchers with two LRM-15 launchers and used the saved weight to add two SRM-4 launchers, carried in either side torso along with one ton of ammunition per launcher, giving it additional short range firepower.",
     "Icon": "uixTxrIcon_archer"
   },
-  "simGameMechPartCost": 880000,
+  "simGameMechPartCost": 860000,
   "Version": 1,
   "Locations": [
     {

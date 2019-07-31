@@ -3,18 +3,25 @@
         "items": [
             "unit_mech",
             "unit_medium",
-            "unit_release",
-            "unit_ready",
+            "unit_indirectFire", 
+            "unit_range_medium",
+            "unit_speed_high",
             "unit_lance_assassin",
-			"unit_role_scout",
-			"unit_indirectFire"
+            "unit_role_scout",
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_assassin_ASN-SB",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3100000,
+        "Cost": 4500000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +32,7 @@
         "Details": "Rather than an actual variant, this is a refit that removes the SRM2 and replaces it with a second Medium Laser in the Right Arm, along with an extra ton of armor for more durability in the field.",
         "Icon": "uixTxrIcon_assassin"
     },
-    "simGameMechPartCost": 1000000,
+    "simGameMechPartCost": 450000,
     "Version": 1,
     "Locations": [
         {

@@ -1,20 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_release",
             "unit_mech",
+            "unit_urbie",
             "unit_light",
+            "unit_jumpOK", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_tank",
-            "unit_role_brawler",
-            "unit_urbie"
+            "unit_role_sniper",
+            "unit_release",
+            "NotDavion",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_urbanmech_UM-R50",
     "HeraldryID": null,
     "Description": {
-        "Cost": 2480000,
+        "Cost": 2200000,
         "Rarity": 0,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +33,7 @@
         "Details": "This variant removes the arms from the Urbie, in an effort to give the 'Mech a smaller combat silhouette. However, the drawbacks of having no arms turned out to be greater than any benefits and this variant is generally regarded as a failure. Very few units of this subvariant have survived into 3025.",
         "Icon": "uixTxrIcon_urbanmech50"
     },
-    "simGameMechPartCost": 250000,
+    "simGameMechPartCost": 220000,
     "Version": 1,
     "Locations": [
         {

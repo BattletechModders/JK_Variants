@@ -1,19 +1,27 @@
 {
     "MechTags": {
         "items": [
-            "KSBeta",
             "unit_mech",
-            "unit_heavy",
+            "KSBeta",
+            "unit_heavy", 
+            "unit_range_long",
+            "unit_speed_low",
             "unit_lance_tank",
             "unit_role_sniper",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_marauder_MAD-3L",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8680000,
+        "Cost": 8400000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +32,7 @@
         "Details": "Built for House Liao in 2905, the 3L attempted to make the Marauder more heat efficient (and make up for a shortage in reliable PPCs) by replacing one of the arm-mounted particle cannons with a large laser. Additionally, two more heat sinks were added to further increase the Marauder's heat efficiency.",
         "Icon": "uixTxrIcon_marauder"
     },
-    "simGameMechPartCost": 870000,
+    "simGameMechPartCost": 840000,
     "Version": 1,
     "Locations": [
         {

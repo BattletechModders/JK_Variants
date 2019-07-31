@@ -1,20 +1,26 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_release",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
+            "unit_jumpOK", 
+            "unit_range_short",
+            "unit_speed_high",
+            "unit_armor_low",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "Marik",
+            "Steiner",
+            "MagistracyOfCanopus",
+            "TaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_vulcan_VL-2T",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4910000,
+        "Cost": 3900000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +31,7 @@
         "Details": "The Vulcan is lightly armored at only five tons, though this is typically sufficient when facing infantry forces and its narrow profile makes it a harder target to hit. A cruising speed of 64.8 km/h is enhanced with by six jump jets mounted in the rear of the Vulcan's torso, specially vented to reduce heat build-up in the rear, giving it a jumping range of 180 meters.",
         "Icon": "uixTxrIcon_vulcan"
     },
-    "simGameMechPartCost": 490000,
+    "simGameMechPartCost": 390000,
     "Version": 1,
     "Locations": [
         {

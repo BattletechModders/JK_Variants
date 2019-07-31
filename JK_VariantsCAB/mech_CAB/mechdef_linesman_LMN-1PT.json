@@ -3,17 +3,27 @@
         "items": [
             "unit_mech",
             "unit_assault",
-            "unit_indirectFire",
+            "unit_indirectFire", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_hot",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_linesman_LMN-1PT",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10760000,
+        "Cost": 10200000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +34,7 @@
         "Details": "The Linesman was a Capellan Confederation design project developed at the same time as the Cataphract around 3015. Its aim was to create a BattleMech from proven, domestically produced components that could be maintained and supported with relative ease.  Since the Capellan industry would only be able to bring one of the two new designs into full production, Chancellor Liao decided in favor of the Cataphract and the Linesman design was shelved after only a few prototypes had been built.",
         "Icon": "uixTxrIcon_mauler"
     },
-    "simGameMechPartCost": 1080000,
+    "simGameMechPartCost": 1020000,
     "Version": 1,
     "Locations": [
         {

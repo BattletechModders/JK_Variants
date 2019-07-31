@@ -1,19 +1,27 @@
 {
   "MechTags": {
     "items": [
-      "unit_generic",
       "unit_mech",
-      "unit_release",
-      "unit_light",
+      "unit_light", 
+      "unit_range_short",
+      "unit_armor_low",
       "unit_lance_vanguard",
-      "unit_role_scout"
+      "unit_role_scout",
+      "unit_release",
+      "NotDavion",
+      "NotLiao",
+      "NotMarik",
+      "NotSteiner",
+      "NotKurita",
+      "NotMagistracyOfCanopus",
+      "NotTaurianConcordat"
     ],
     "tagSetSourceFile": ""
   },
   "ChassisID": "chassisdef_trooper_TP-1R",
   "HeraldryID": null,
   "Description": {
-    "Cost": 224800,
+    "Cost": 1500000,
     "Rarity": 0,
     "Purchasable": true,
     "Manufacturer": null,
@@ -24,7 +32,7 @@
     "Details": "The predecessor to the Flea, the Trooper while easy to maintain, quickly developed a bad reputation amogst pilots.  Not only was it lightly armored, it rode harder than a WorkMech.  It's minimal AP armament made it suitable for militia and anti-infantry roles, but even against similar weight class 'Mechs it struggled to hold its own.",
     "Icon": "uixTxrIcon_flea"
   },
-  "simGameMechPartCost": 190000,
+  "simGameMechPartCost": 150000,
   "Version": 1,
   "Locations": [
     {

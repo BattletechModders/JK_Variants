@@ -1,20 +1,31 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_release",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
+            "unit_jumpOK", 
+            "unit_range_medium",
+            "unit_speed_high",
+            "unit_armor_high",
+            "unit_hot",
             "unit_lance_support",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "unit_release",
+            "Davion",
+            "Liao",
+            "Marik",
+            "Steiner",
+            "Kurita",
+            "MagistracyOfCanopus",
+            "TaurianConcordat",
+            "unit_common"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_phoenixhawk_PXH-1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4929000,
+        "Cost": 5000000,
         "Rarity": 1,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +36,7 @@
         "Details": "First introduced by the Terran Hegemony in 2568, the Phoenix Hawk was one of the most well known BattleMechs in the Inner Sphere. The 'Mech began life when Orguss Industries realized that it could reinforce the Stinger chassis to create a larger version, one with the same speed and maneuverability as the Stinger but with superior armor, firepower and electronics. Though not without its own drawbacks, the Phoenix Hawk quickly became the standard by which all other reconnaissance 'Mechs were measured.",
         "Icon": "uixTxrIcon_phoenixhawk"
     },
-    "simGameMechPartCost": 490000,
+    "simGameMechPartCost": 500000,
     "Version": 1,
     "Locations": [
         {

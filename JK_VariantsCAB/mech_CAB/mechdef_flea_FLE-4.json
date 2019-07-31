@@ -1,19 +1,24 @@
 {
   "MechTags": {
     "items": [
-      "unit_generic",
       "unit_mech",
-      "unit_release",
-      "unit_light",
+      "unit_light", 
+      "unit_range_short",
+      "unit_armor_low",
       "unit_lance_vanguard",
-      "unit_role_scout"
+      "unit_role_scout",
+      "unit_release",
+      "NotDavion",
+      "Marik",
+      "NotKurita",
+      "NotTaurianConcordat"
     ],
     "tagSetSourceFile": ""
   },
   "ChassisID": "chassisdef_flea_FLE-4",
   "HeraldryID": null,
   "Description": {
-    "Cost": 324800,
+    "Cost": 1700000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -24,7 +29,7 @@
     "Details": "An original Flea model, the FLE-4 is built on a standard chassis and has a maximum speed of 97.2 km/h. The 'Mech was armed with a Large Laser, allowing it to attempt to keep any heavier 'Mechs at a stand-off range if they attempt to engage. The 'Mech carries two Small Lasers for close in work as well as a  Flamer for anti-infantry purposes. However, its paltry two tons of armor led to the 'Mech's discontinuation.",
     "Icon": "uixTxrIcon_flea"
   },
-  "simGameMechPartCost": 190000,
+  "simGameMechPartCost": 170000,
   "Version": 1,
   "Locations": [
     {

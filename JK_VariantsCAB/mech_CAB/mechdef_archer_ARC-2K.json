@@ -1,19 +1,28 @@
 {
   "MechTags": {
     "items": [
-      "unit_indirectFire",
       "unit_mech",
       "unit_heavy",
-      "unit_release",
+      "unit_indirectFire", 
+      "unit_range_long",
+      "unit_speed_low",
+      "unit_armor_high",
+      "unit_hot",
       "unit_lance_support",
-      "unit_role_sniper"
+      "unit_role_sniper",
+      "unit_release",
+      "NotLiao",
+      "NotMarik",
+      "Kurita",
+      "NotMagistracyOfCanopus",
+      "NotTaurianConcordat"
     ],
     "tagSetSourceFile": ""
   },
   "ChassisID": "chassisdef_archer_ARC-2K",
   "HeraldryID": null,
   "Description": {
-    "Cost": 1582400,
+    "Cost": 8500000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -24,7 +33,7 @@
     "Details": "The 2K Archer was a modification designed for House Kurita in 2856. The 'Mech replaced the LRM20 launchers with LRM15s launchers while also removing all of the medium lasers along with some armor. The engineers then used the newly avaiable space add a Large Laser to each arm and two Heat Sinks to help with the added heat load.",
     "Icon": "uixTxrIcon_archer"
   },
-  "simGameMechPartCost": 880000,
+  "simGameMechPartCost": 850000,
   "Version": 1,
   "Locations": [
     {

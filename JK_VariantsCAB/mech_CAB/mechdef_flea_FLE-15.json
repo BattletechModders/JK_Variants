@@ -1,19 +1,25 @@
 {
   "MechTags": {
     "items": [
-      "unit_generic",
       "unit_mech",
-      "unit_release",
-      "unit_light",
+      "unit_light", 
+      "unit_range_short",
       "unit_lance_vanguard",
-      "unit_role_scout"
+      "unit_role_scout",
+      "unit_release",
+      "NotDavion",
+      "NotLiao",
+      "NotSteiner",
+      "NotKurita",
+      "NotMagistracyOfCanopus",
+      "NotTaurianConcordat"
     ],
     "tagSetSourceFile": ""
   },
   "ChassisID": "chassisdef_flea_FLE-15",
   "HeraldryID": null,
   "Description": {
-    "Cost": 324800,
+    "Cost": 1800000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -24,7 +30,7 @@
     "Details": "Focused on speed and firepower, the lightly armored Flea was an extremely rare sight until the design experienced a revival as an inexpensive recon and anti-personnel militia 'Mech. Extremely fast but lightly armored, the Flea does its job but don't ask it to fight much.",
     "Icon": "uixTxrIcon_flea"
   },
-  "simGameMechPartCost": 190000,
+  "simGameMechPartCost": 180000,
   "Version": 1,
   "Locations": [
     {

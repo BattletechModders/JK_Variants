@@ -1,20 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_release",
             "unit_mech",
             "unit_medium",
-            "unit_ready",
-            "unit_lance_support",
-            "unit_role_sniper"
+            "unit_jumpOK", 
+            "unit_range_medium",
+            "unit_armor_low",
+            "unit_lance_vanguard",
+            "unit_role_brawler",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_vulcan_VT-BL",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4910000,
+        "Cost": 4200000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
@@ -22,10 +30,10 @@
         "UIName": "Vulcan VT-BL",
         "Id": "mechdef_vulcan_VT-BL",
         "Name": "Vulcan",
-        "Details": "The Bloodlust is PGI's take on the hero release of the forthcoming Vulcan. Weaponry consists of two Machine Guns in the Left Arm, while a Small Laser and another Machine Gun round out the Right Arm. The Head, Right and Left Torso each carry an SRM-4, while four tons of ammo help keep the SRM's sufficiently supplied. Like all the current variants of the Canon versions, the Bloodlust is jump capable, however, has Standard Heat Sink capability.",
+        "Details": "The Vulcan VT-BL, better known as the 'Bloodlust', is a special variant of the Vulcan that focuses on its strengths as an anti-infantry 'Mech. Its weaponry consists of two Machine Guns in the Left Arm, with a Small Laser and another Machine Gun in the Right Arm. The Head, Right and Left Torsos each carry a SRM-4, while four tons of ammo help keep them sufficiently supplied. Like all known variants of the Canon versions, the Bloodlust is jump capable.",
         "Icon": "uixTxrIcon_vulcan"
     },
-    "simGameMechPartCost": 490000,
+    "simGameMechPartCost": 420000,
     "Version": 1,
     "Locations": [
         {
@@ -118,12 +126,12 @@
             "ComponentDefID": "Weapon_Laser_SmallLaser_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
+            "HardpointSlot": 1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },		
+        },
         {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Weapon_SRM_SRM4_0-STOCK",
@@ -134,7 +142,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },	
+        },
         {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
@@ -167,7 +175,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },		
+        },
         {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_JumpJet_Generic_Standard",
@@ -189,7 +197,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },		
+        },
         {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_HeatSink_Generic_Standard",
@@ -211,7 +219,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },		
+        },
         {
             "MountedLocation": "CenterTorso",
             "ComponentDefID": "Weapon_SRM_SRM4_0-STOCK",
@@ -222,7 +230,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },	
+        },
         {
             "MountedLocation": "LeftTorso",
             "ComponentDefID": "Weapon_SRM_SRM4_0-STOCK",
@@ -233,7 +241,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },	
+        },
         {
             "MountedLocation": "LeftTorso",
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
@@ -266,7 +274,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },		
+        },
         {
             "MountedLocation": "LeftTorso",
             "ComponentDefID": "Gear_JumpJet_Generic_Standard",
@@ -288,18 +296,7 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },		
-        {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Standard",
-            "SimGameUID": null,
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },	
+        },
         {
             "MountedLocation": "LeftArm",
             "ComponentDefID": "Weapon_MachineGun_MachineGun_0-STOCK",
@@ -310,13 +307,13 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },	
+        },
         {
             "MountedLocation": "LeftArm",
             "ComponentDefID": "Weapon_MachineGun_MachineGun_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
+            "HardpointSlot": 1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,

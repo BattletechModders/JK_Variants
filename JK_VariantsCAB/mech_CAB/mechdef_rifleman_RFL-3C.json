@@ -2,17 +2,25 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
-            "unit_release",
+            "unit_heavy", 
+            "unit_range_long",
+            "unit_speed_low",
             "unit_lance_tank",
-            "unit_role_brawler"
+            "unit_role_brawler",
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_rifleman_RFL-3C",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6670000,
+        "Cost": 5700000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +31,7 @@
         "Details": "The second of two variants designed by Hanse Davion during the Succession Wars, the 3C removes the large lasers and autocannon/5s in order to mount a pair of Autocannon/10s in their place and add an extra ton of armor. Two tons of ammunition for the larger autocannons were carried in the right torso.",
         "Icon": "uixTxrIcon_rifleman"
     },
-    "simGameMechPartCost": 670000,
+    "simGameMechPartCost": 570000,
     "Version": 1,
     "Locations": [
         {

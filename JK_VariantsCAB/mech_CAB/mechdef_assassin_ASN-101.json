@@ -1,22 +1,31 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
             "unit_mech",
             "unit_medium",
-            "unit_release",
-            "unit_ready",
+            "unit_jumpOK",
+            "unit_indirectFire", 
+            "unit_range_short",
+            "unit_range_medium",
+            "unit_speed_high",
+            "unit_armor_low",
             "unit_lance_support",
             "unit_lance_vanguard",
-			"unit_role_brawler",
-			"unit_indirectFire"
+            "unit_role_brawler",
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_assassin_ASN-101",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3100000,
+        "Cost": 4400000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -27,7 +36,7 @@
         "Details": "Keeping the top speed of the ASN-21 as well as its base weapon load of missiles, the ASN-101 is a rare Federated Suns variant that drops two jump jets and a half ton of armor to mount a trio of Small Lasers, giving the ASN-101 a much better close-in punch compared to its progenitor.",
         "Icon": "uixTxrIcon_assassin"
     },
-    "simGameMechPartCost": 1000000,
+    "simGameMechPartCost": 440000,
     "Version": 1,
     "Locations": [
         {

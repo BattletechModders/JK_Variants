@@ -2,17 +2,27 @@
   "MechTags": {
     "items": [
       "unit_mech",
-      "unit_assault",
+      "unit_assault", 
+      "unit_range_long",
+      "unit_speed_low",
+      "unit_armor_high",
+      "unit_hot",
       "unit_lance_assassin",
       "unit_role_brawler",
-      "unit_release"
+      "unit_release",
+      "NotLiao",
+      "NotMarik",
+      "NotSteiner",
+      "NotKurita",
+      "NotMagistracyOfCanopus",
+      "NotTaurianConcordat"
     ],
     "tagSetSourceFile": ""
   },
   "ChassisID": "chassisdef_nightstar_NSR-10C",
   "HeraldryID": null,
   "Description": {
-    "Cost": 2588980,
+    "Cost": 11500000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": null,
@@ -23,7 +33,7 @@
     "Details": "This downgraded version, designated the NSR-10C, carries of a pair of GM Hurricane Class 10 Autocannons in place of the Gauss Rifles. The ammunition capacity has also been downgraded from seven tons to five tons.  The original lasers have all been replaced with Magna Mk II mediums lasers and the particle cannon is now the same model as that found on the Marauder. A half-ton of armor has been removed and it carries 16 standard heat sinks. The top speed remains unchanged even though the engine has been replaced by a standard model.",
     "Icon": "uixTxrIcon_nightstar"
   },
-  "simGameMechPartCost": 1170000,
+  "simGameMechPartCost": 1150000,
   "Version": 1,
   "Locations": [
     {

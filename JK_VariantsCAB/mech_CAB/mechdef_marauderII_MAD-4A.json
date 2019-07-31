@@ -2,18 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_assault",
+            "unit_assault", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_armor_high",
             "unit_lance_tank",
-            "unit_role_sniper",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_marauderII_MAD-4A",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12150000,
+        "Cost": 12800000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +33,7 @@
         "Details": "In 3010, the Dragoons approached Blackwell Corp with the project of modifying a standard Marauder into a 100 ton Assault 'Mech.  By 3012 the prototype was completed and it featured not only increased armor, but the ability to jump.  The armaments were close to the original, though the dependency of ammo was mitigated by replacing the AC5 with a Large Laser.",
         "Icon": "uixTxrIcon_marauderii"
     },
-    "simGameMechPartCost": 12100000,
+    "simGameMechPartCost": 1280000,
     "Version": 1,
     "Locations": [
         {

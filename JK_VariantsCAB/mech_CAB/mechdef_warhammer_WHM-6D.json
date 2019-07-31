@@ -2,17 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
+            "unit_heavy", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_armor_high",
+            "unit_hot",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_warhammer_WHM-6D",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8020000,
+        "Cost": 8100000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +33,7 @@
         "Details": "An alteration of the 6R model introduced in 2835, the 6D removed the machine guns and the SRM-6 launcher to add an additional four tons of armor to the design, increasing its leg protection, as well as two more heat sinks. The 6D was particularly favored by the Federated Suns.",
         "Icon": "uixTxrIcon_warhammer"
     },
-    "simGameMechPartCost": 800000,
+    "simGameMechPartCost": 810000,
     "Version": 1,
     "Locations": [
         {

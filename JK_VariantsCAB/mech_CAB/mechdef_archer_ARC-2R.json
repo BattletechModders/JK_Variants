@@ -1,19 +1,31 @@
 {
   "MechTags": {
     "items": [
-      "unit_indirectFire",
       "unit_mech",
       "unit_heavy",
-      "unit_release",
+      "unit_indirectFire", 
+      "unit_range_long",
+      "unit_speed_low",
+      "unit_armor_high",
+      "unit_hot",
       "unit_lance_support",
-      "unit_role_sniper"
+      "unit_role_sniper",
+      "unit_release",
+      "Davion",
+      "Liao",
+      "Marik",
+      "Steiner",
+      "Kurita",
+      "MagistracyOfCanopus",
+      "TaurianConcordat",
+      "unit_common"
     ],
     "tagSetSourceFile": ""
   },
   "ChassisID": "chassisdef_archer_ARC-2R",
   "HeraldryID": null,
   "Description": {
-    "Cost": 1582400,
+    "Cost": 8600000,
     "Rarity": 3,
     "Purchasable": true,
     "Manufacturer": null,
@@ -24,7 +36,7 @@
     "Details": "Introduced in 2474, the ARC-2R Archer became one of the best-known and most widely-used BattleMechs available. Though many were destroyed or dismantled for spare parts, they remained a common sight in the Great House armies, and has been a staple of Inner Sphere armies ever since.",
     "Icon": "uixTxrIcon_archer"
   },
-  "simGameMechPartCost": 880000,
+  "simGameMechPartCost": 860000,
   "Version": 1,
   "Locations": [
     {

@@ -1,19 +1,27 @@
 {
     "MechTags": {
         "items": [
-            "KSBeta",
             "unit_mech",
-            "unit_heavy",
+            "KSBeta",
+            "unit_heavy", 
+            "unit_range_long",
+            "unit_speed_low",
             "unit_lance_tank",
             "unit_role_sniper",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "Marik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_marauder_MAD-3M",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8700000,
+        "Cost": 8500000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +32,7 @@
         "Details": "The 3M was introduced in 2873 specially for the Free Worlds League. Because of the abundance of large lasers built by that realm, the 3M model carried two large lasers in place of the PPCs. While running cooler than the weapons they replaced, the large lasers also caused slightly less damage. Additionally, the 3M added four heat sinks to the design, making the 'Mech much more manageable for pilots who have trouble with overheating their 'Mechs.",
         "Icon": "uixTxrIcon_marauder"
     },
-    "simGameMechPartCost": 870000,
+    "simGameMechPartCost": 850000,
     "Version": 1,
     "Locations": [
         {

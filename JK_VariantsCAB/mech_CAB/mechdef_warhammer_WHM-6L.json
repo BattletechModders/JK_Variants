@@ -2,17 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
+            "unit_heavy", 
+            "unit_range_medium",
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_hot",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_warhammer_WHM-6L",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8020000,
+        "Cost": 7900000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +33,7 @@
         "Details": "The 6L was a very basic weapons swap of the 6R model used by Capellan armed forces. Known as the \"Hot Hammer\" and debuting in 2825, the two machine guns and their ammunition were removed in order to mount two Flamers added for anti-infantry use.",
         "Icon": "uixTxrIcon_warhammer"
     },
-    "simGameMechPartCost": 800000,
+    "simGameMechPartCost": 790000,
     "Version": 1,
     "Locations": [
         {

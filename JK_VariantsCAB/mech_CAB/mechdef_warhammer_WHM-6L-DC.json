@@ -2,17 +2,27 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
+            "unit_heavy", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_hot",
             "unit_lance_tank",
             "unit_role_brawler",
-            "unit_release"
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_warhammer_WHM-6L-DC",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8020000,
+        "Cost": 10300000,
         "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
@@ -23,7 +33,7 @@
         "Details": "A Capellan command variant of the WHM-6L, the DC version downgrades the SRM6 to a SRM2 and removes one flamer to install a Command Console.",
         "Icon": "uixTxrIcon_warhammer"
     },
-    "simGameMechPartCost": 800000,
+    "simGameMechPartCost": 1030000,
     "Version": 1,
     "Locations": [
         {

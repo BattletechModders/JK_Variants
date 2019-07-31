@@ -1,20 +1,28 @@
 {
     "MechTags": {
         "items": [
-            "unit_jumpOK",
-            "unit_release",
             "unit_mech",
             "unit_light",
-            "unit_ready",
+            "unit_jumpOK", 
+            "unit_range_medium",
+            "unit_armor_high",
             "unit_lance_vanguard",
-            "unit_role_scout"
+            "unit_role_scout",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_wolfhound_WLF-2",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3590000,
+        "Cost": 4200000,
         "Rarity": 1,
         "Purchasable": true,
         "Manufacturer": null,
@@ -25,7 +33,7 @@
         "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to double strength and the Large laser is upgraded also to ER version.",
         "Icon": "uixTxrIcon_wolfhound"
     },
-    "simGameMechPartCost": 360000,
+    "simGameMechPartCost": 420000,
     "Version": 1,
     "Locations": [
         {

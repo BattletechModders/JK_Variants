@@ -2,18 +2,29 @@
     "MechTags": {
         "items": [
             "unit_mech",
-            "unit_heavy",
-            "unit_release",
-            "unit_industrial",
+            "BLACKLISTED",
             "unit_noncombatant",
-            "BLACKLISTED"
+            "unit_industrial",
+            "unit_heavy", 
+            "unit_range_short",
+            "unit_speed_low",
+            "unit_armor_low",
+            "unit_role_meleeonly",
+            "unit_release",
+            "NotDavion",
+            "NotLiao",
+            "NotMarik",
+            "NotSteiner",
+            "NotKurita",
+            "NotMagistracyOfCanopus",
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_loaderking_LDK-5C",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3410000,
+        "Cost": 3500000,
         "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +35,7 @@
         "Details": "The Loader King is one of the few IndustrialMechs still being manufactured in the Inner Sphere. This is due in large part to the fact that Achernar BattleMechs, the parent company of Achernar Heavy Industries, chose to maintain their IndustrialMech output rather than retool the lines for BattleMech production. Achernar BattleMechs already produces the Locust, Wasp, Phoenix Hawk and the Enforcer at their headquarters on New Avalon.",
         "Icon": "uixTxrIcon_roughneckcrane"
     },
-    "simGameMechPartCost": 740000,
+    "simGameMechPartCost": 350000,
     "Version": 1,
     "Locations": [
         {

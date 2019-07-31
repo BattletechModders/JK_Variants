@@ -1,19 +1,25 @@
 {
     "MechTags": {
         "items": [
-            "KSBeta",
             "unit_mech",
-            "unit_heavy",
+            "KSBeta",
+            "unit_heavy", 
+            "unit_range_long",
+            "unit_speed_low",
+            "unit_hot",
             "unit_lance_tank",
             "unit_role_sniper",
-            "unit_release"
+            "unit_release",
+            "Davion",
+            "Steiner",
+            "Kurita"
         ],
         "tagSetSourceFile": ""
     },
     "ChassisID": "chassisdef_marauder_MAD-3R",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8660000,
+        "Cost": 8500000,
         "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
@@ -24,7 +30,7 @@
         "Details": "The Marauder was first built by General Motors in 2612 for use as an attack and direct fire support BattleMech. The first 'Mech to diverge from the traditional humanoid shape of previous machines, the Marauder was one of the most well-known 'Mechs in existence and originally meant to usher in a new generation of 'Mechs. Unfortunately, with the fall of the Star League, this new generation never quite materialized. On its own merits though, the Marauder was a devastatingly powerful 'Mech, outclassed only by larger machines like the Stalker and BattleMaster.",
         "Icon": "uixTxrIcon_marauder"
     },
-    "simGameMechPartCost": 870000,
+    "simGameMechPartCost": 850000,
     "Version": 1,
     "Locations": [
         {
