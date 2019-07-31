@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 8400000,
+        "Cost": 8800000,
         "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": "",
@@ -39,7 +39,7 @@
     "Signature": 0,
     "Radius": 8,
     "PunchesWithLeftArm": false,
-    "MeleeDamage": 120,
+    "MeleeDamage": 110,
     "MeleeInstability": 80,
     "MeleeToHitModifier": 0,
     "DFADamage": 100,

@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 1800000,
+        "Cost": 1600000,
         "Rarity": 0,
         "Purchasable": true,
         "Manufacturer": "",
@@ -103,14 +103,6 @@
         {
             "Location": "RightTorso",
             "Hardpoints": [
-                {
-                    "WeaponMount": "Ballistic",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "Ballistic",
-                    "Omni": false
-                },
                 {
                     "WeaponMount": "Ballistic",
                     "Omni": false

@@ -1,12 +1,6 @@
 {
-  "Custom": {
-    "ArmActuatorSupport": {
-      "LeftLimit": "Upper",
-      "RightLimit": "Upper"
-    }
-  },
   "Description": {
-    "Cost": 1624000,
+    "Cost": 1200000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": "",
@@ -14,7 +8,7 @@
     "UIName": "Flea",
     "Id": "chassisdef_flea_FLE-14",
     "Name": "Flea",
-    "Details": "Entering production in 2519 the FLE-14 Flea was an attempt to create an ultra-light BattleMech. Weighing a mere fifteen tons, it could arguably be regarded as a different 'Mech design than the true Flea. It was capable of a maximum ground speed of nearly 150km/h with a 120 meter jump capability. Its weapons and armor however were very light: Only one ton of armor protected the unit, and the single Medium Laser mounted in the right arm was barely enough to make it a viable battlefield unit.",
+    "Details": "Entering production in 2519 the FLE-14 Flea was an attempt to create an ultra-light BattleMech. Weighing a mere fifteen tons, it could arguably be regarded as a different 'Mech design than the true Flea. It was capable of a maximum ground speed of nearly 150km/h with a 120 meter jump capability. Its weapons and armor however were very light, with only a single ton of armor protected the unit, while the lone Medium Laser mounted in the right arm was barely enough to qualify it a viable battlefield unit.",
     "Icon": "uixTxrIcon_flea"
   },
   "MovementCapDefID": "movedef_flea_FLE-14",
@@ -29,7 +23,7 @@
   "Heatsinks": 0,
   "TopSpeed": 210,
   "TurnRadius": 90,
-  "MaxJumpjets": 8,
+  "MaxJumpjets": 9,
   "Stability": 100,
   "StabilityDefenses": [
     0,
@@ -45,7 +39,7 @@
   "Signature": 0,
   "Radius": 4,
   "PunchesWithLeftArm": false,
-  "MeleeDamage": 15,
+  "MeleeDamage": 10,
   "MeleeInstability": 20,
   "MeleeToHitModifier": 0,
   "DFADamage": 20,
@@ -81,10 +75,6 @@
     {
       "Location": "LeftTorso",
       "Hardpoints": [
-		{
-          "WeaponMount": "AntiPersonnel",
-          "Omni": false
-        }
       ],
       "Tonnage": 0,
       "InventorySlots": 10,
@@ -106,10 +96,6 @@
     {
       "Location": "RightTorso",
       "Hardpoints": [
-		{
-          "WeaponMount": "AntiPersonnel",
-          "Omni": false
-        }
       ],
       "Tonnage": 0,
       "InventorySlots": 10,
@@ -125,7 +111,7 @@
           "Omni": false
         },
         {
-          "WeaponMount": "Energy",
+          "WeaponMount": "AntiPersonnel",
           "Omni": false
         }
       ],
@@ -210,5 +196,5 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Ultralight Recon",
-  "YangsThoughts": "Entering production in 2519 the FLE-14 Flea was an attempt to create an ultra-light BattleMech. Weighing a mere fifteen tons, it could arguably be regarded as a different 'Mech design than the true Flea. It was capable of a maximum ground speed of nearly 150km/h with a 120 meter jump capability. Its weapons and armor however were very light: Only one ton of armor protected the unit, and the single Medium Laser mounted in the right arm was barely enough to make it a viable battlefield unit."
+  "YangsThoughts": "The FLE-14 really lives up to the Ultra-Light category, with hardly any armor and less firepower than the average foot slogger squad.  While it has speed going for it, I think your best bet is using it as a spotter and getting out of Dodge if any enemies get too close."
 }

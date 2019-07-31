@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 6700000,
+        "Cost": 8500000,
         "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": "",
@@ -13,9 +13,9 @@
     },
     "MovementCapDefID": "movedef_warhammer_WHM-6R",
     "PathingCapDefID": "pathingdef_heavy",
-    "HardpointDataDefID": "hardpointdatadef_warhammer",
-    "PrefabIdentifier": "chrPrfMech_warhammerHotD-001",
-    "PrefabBase": "warhammer",
+    "HardpointDataDefID": "hardpointdatadef_hammertimeomni",
+    "PrefabIdentifier": "chrprfmech_hammertimeomnibase-001",
+    "PrefabBase": "hammertimeomni",
     "Tonnage": 70,
     "InitialTonnage": 29,
     "weightClass": "HEAVY",
@@ -24,7 +24,7 @@
     "TopSpeed": 120,
     "TurnRadius": 90,
     "MaxJumpjets": 4,
-    "Stability": 100,
+    "Stability": 160,
     "StabilityDefenses": [
         0,
         0,
@@ -39,7 +39,7 @@
     "Signature": 0,
     "Radius": 8,
     "PunchesWithLeftArm": false,
-    "MeleeDamage": 90,
+    "MeleeDamage": 65,
     "MeleeInstability": 70,
     "MeleeToHitModifier": 0,
     "DFADamage": 90,

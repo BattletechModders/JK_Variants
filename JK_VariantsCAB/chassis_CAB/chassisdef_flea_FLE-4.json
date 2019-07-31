@@ -1,12 +1,6 @@
 {
-  "Custom": {
-    "ArmActuatorSupport": {
-      "LeftLimit": "Upper",
-      "RightLimit": "Upper"
-    }
-  },
   "Description": {
-    "Cost": 1624000,
+    "Cost": 1400000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": "",
@@ -85,10 +79,6 @@
     {
       "Location": "LeftTorso",
       "Hardpoints": [
-        {
-          "WeaponMount": "AntiPersonnel",
-          "Omni": false
-        }
       ],
       "Tonnage": 0,
       "InventorySlots": 10,
@@ -113,10 +103,6 @@
     {
       "Location": "RightTorso",
       "Hardpoints": [
-        {
-          "WeaponMount": "AntiPersonnel",
-          "Omni": false
-        }
       ],
       "Tonnage": 0,
       "InventorySlots": 10,
@@ -129,6 +115,14 @@
       "Hardpoints": [
         {
           "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
           "Omni": false
         }
       ],
@@ -213,5 +207,5 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Recon and Backstabber",
-  "YangsThoughts": "An original Flea model, the FLE-4 is built on a standard chassis and has a maximum speed of 97.2 km/h. The 'Mech was armed with a Large Laser, allowing it to attempt to keep any heavier 'Mechs at a stand-off range if they attempt to engage. The 'Mech carries two Small Lasers for close in work as well as a  Flamer for anti-infantry purposes. However, its paltry two tons of armor led to the 'Mech's discontinuation."
+  "YangsThoughts": "A Large Laser on legs, the FLE-4 can cripple out most other 'Mechs in its weight class in a single volley.  Which is a good thing, because if they get a shot off back at you, this tissue paper armor isn't going to do much for you."
 }

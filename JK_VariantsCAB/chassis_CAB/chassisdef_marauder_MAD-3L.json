@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 7400000,
+        "Cost": 7000000,
         "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
@@ -14,8 +14,8 @@
     "MovementCapDefID": "movedef_marauder_MAD-3R",
     "PathingCapDefID": "pathingdef_heavy",
     "HardpointDataDefID": "hardpointdatadef_marauder",
-    "PrefabIdentifier": "chrPrfMech_marauderHotD-001",
-    "PrefabBase": "kingcrab",
+    "PrefabIdentifier": "chrprfmech_marauderhotd-001",
+    "PrefabBase": "marauder",
     "Tonnage": 75,
     "InitialTonnage": 32.5,
     "weightClass": "HEAVY",
@@ -24,7 +24,7 @@
     "TopSpeed": 64,
     "TurnRadius": 90,
     "MaxJumpjets": 4,
-    "Stability": 100,
+    "Stability": 160,
     "StabilityDefenses": [
         0,
         0,
@@ -39,7 +39,7 @@
     "Signature": 0,
     "Radius": 8,
     "PunchesWithLeftArm": false,
-    "MeleeDamage": 95,
+    "MeleeDamage": 70,
     "MeleeInstability": 75,
     "MeleeToHitModifier": 0,
     "DFADamage": 95,
@@ -100,7 +100,7 @@
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "AntiPersonnel",
                     "Omni": false
                 }
             ],
@@ -197,5 +197,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Ranged Assault",
-    "YangsThoughts": "The Marauder packs blistering fire power, and does it in style.  It's great to see this mech in our mech bay."
+    "YangsThoughts": "The Capellan variant of the Marauder does an alright job in addressing the heat issues of the base model by downgrading some of the weapons and adding in heat sinks."
 }

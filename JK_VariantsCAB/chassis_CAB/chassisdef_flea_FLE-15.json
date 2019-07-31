@@ -1,12 +1,6 @@
 {
-  "Custom": {
-    "ArmActuatorSupport": {
-      "LeftLimit": "Upper",
-      "RightLimit": "Upper"
-    }
-  },
   "Description": {
-    "Cost": 1624000,
+    "Cost": 1500000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": "",
@@ -217,5 +211,5 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Recon and Backstabber",
-  "YangsThoughts": "Focused on speed and firepower, the lightly armored Flea was an extremely rare sight until the design experienced a revival as an inexpensive recon and anti-personnel militia 'Mech. Extremely fast but lightly armored, the Flea does its job but don't ask it to fight much."
+  "YangsThoughts": "Another Flea variant, the FLE-15 is the most heavily armed of the lot.  This is the version most commonly associated with Wolf's Dragoons, and you don't see many of these outside of their hands."
 }

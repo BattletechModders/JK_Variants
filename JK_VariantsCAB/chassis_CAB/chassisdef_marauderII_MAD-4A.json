@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 10900000,
+        "Cost": 10400000,
         "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": "",
@@ -13,9 +13,9 @@
     },
     "MovementCapDefID": "movedef_marauderII_MAD-4A",
     "PathingCapDefID": "pathingdef_assault",
-    "HardpointDataDefID": "hardpointdatadef_marauder",
-    "PrefabIdentifier": "chrPrfMech_marauderHotD-001",
-    "PrefabBase": "kingcrab",
+    "HardpointDataDefID": "hardpointdatadef_marauderii",
+    "PrefabIdentifier": "chrprfmech_marauderiibase-001",
+    "PrefabBase": "marauderii",
     "Tonnage": 100,
     "InitialTonnage": 35,
     "weightClass": "ASSAULT",
@@ -201,9 +201,11 @@
     ],
     "VariantName": "MAD-4A",
     "ChassisTags": {
-        "items": [],
+        "items": [
+            "mr-resize-0.92-1.04-1.08"
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Ranged Assault",
-    "YangsThoughts": "Who looks at a Marauder and says to themselves 'that could use a few extra tons and slap on some JumpJets while you're at it'.  Those Dragoons are insane.  But, I gotta say, this is an improvement on the standard Marauder in just about every way - aside from still having heat issues."
+    "YangsThoughts": "Who looks at a Marauder and says to themselves 'that could be bigger and slap on some JumpJets while you're at it'.  Those Dragoons are insane.  But, I gotta say, this is an improvement on the standard Marauder in just about every way - aside from still having heat issues."
 }

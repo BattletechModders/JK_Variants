@@ -1,6 +1,6 @@
 {
   "Description": {
-    "Cost": 12944900,
+    "Cost": 9600000,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": "",
@@ -39,7 +39,7 @@
   "Signature": 0,
   "Radius": 8,
   "PunchesWithLeftArm": false,
-  "MeleeDamage": 110,
+  "MeleeDamage": 90,
   "MeleeInstability": 80,
   "MeleeToHitModifier": 0,
   "DFADamage": 95,
@@ -82,7 +82,7 @@
         }
       ],
       "Tonnage": 0,
-      "InventorySlots": 11,
+      "InventorySlots": 8,
       "MaxArmor": 160,
       "MaxRearArmor": -1,
       "InternalStructure": 80
@@ -91,7 +91,7 @@
       "Location": "LeftTorso",
       "Hardpoints": [],
       "Tonnage": 0,
-      "InventorySlots": 12,
+      "InventorySlots": 10,
       "MaxArmor": 200,
       "MaxRearArmor": 100,
       "InternalStructure": 100
@@ -100,7 +100,7 @@
       "Location": "CenterTorso",
       "Hardpoints": [],
       "Tonnage": 0,
-      "InventorySlots": 16,
+      "InventorySlots": 4,
       "MaxArmor": 300,
       "MaxRearArmor": 150,
       "InternalStructure": 150
@@ -122,7 +122,7 @@
         }
       ],
       "Tonnage": 0,
-      "InventorySlots": 12,
+      "InventorySlots": 10,
       "MaxArmor": 200,
       "MaxRearArmor": 100,
       "InternalStructure": 100
@@ -144,7 +144,7 @@
         }
       ],
       "Tonnage": 0,
-      "InventorySlots": 11,
+      "InventorySlots": 8,
       "MaxArmor": 160,
       "MaxRearArmor": -1,
       "InternalStructure": 80
@@ -155,7 +155,7 @@
 
       ],
       "Tonnage": 0,
-      "InventorySlots": 2,
+      "InventorySlots": 4,
       "MaxArmor": 200,
       "MaxRearArmor": -1,
       "InternalStructure": 100
@@ -166,7 +166,7 @@
 
       ],
       "Tonnage": 0,
-      "InventorySlots": 2,
+      "InventorySlots": 4,
       "MaxArmor": 200,
       "MaxRearArmor": -1,
       "InternalStructure": 100
