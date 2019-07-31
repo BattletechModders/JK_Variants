@@ -1,15 +1,15 @@
 {
    "Description" : {
-      "Id" : "movedef_SKULKER",
-      "Name" : "MovementCapabilitiesDef for Skulker",
+      "Id" : "movedef_locust_LCT-1D",
+      "Name" : "MovementCapabilitiesDef for Locust LCT-1D",
       "Details" : "",
       "Icon" : ""
    },
    "MaxWalkDistance" : 190.0,
    "MaxSprintDistance" : 315.0,
-   "WalkVelocity" : 22.0,
-   "RunVelocity" : 28.0,
-   "SprintVelocity" : 36.0,
+   "WalkVelocity" : 12.0,
+   "RunVelocity" : 24.0,
+   "SprintVelocity" : 28.0,
    "LimpVelocity" : 8.0,
    "WalkAcceleration" : 25.0,
    "SprintAcceleration" : 40.0,

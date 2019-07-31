@@ -4,7 +4,7 @@
     "AbsoluteModifier" : 0,
     "Description" : {
         "Cost" : 1000000,
-        "Rarity" : 100,
+        "Rarity" : 99,
         "Purchasable" : false,
         "Manufacturer" : "Bergan Industries",
         "Model" : "Prototype",
@@ -193,7 +193,7 @@
             "Description" : {
                 "Id" : "StatusEffect-Heat_TSM",
                 "Name" : "HEAT GENERATION INCREASED",
-                "Details" : "Heat generation increased by 12.",
+                "Details" : "Heat generation increased by 5.",
                 "Icon" : "uixSvgIcon_equipment_ThermalExchanger"
             },
             "nature" : "Buff",
@@ -202,7 +202,7 @@
                 "effectsPersistAfterDestruction" : false,
                 "statName" : "HeatGenerated",
                 "operation" : "Float_Add",
-                "modValue" : "12",
+                "modValue" : "5",
                 "modType" : "System.Single",
                 "additionalRules" : "NotSet",
                 "targetCollection" : "Weapon",

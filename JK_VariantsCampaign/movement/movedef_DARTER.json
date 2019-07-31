@@ -1,12 +1,12 @@
 {
    "Description" : {
-      "Id" : "movedef_JEdgar",
-      "Name" : "MovementCapabilitiesDef for J Edgar Hovercraft",
+      "Id" : "movedef_DARTER",
+      "Name" : "MovementCapabilitiesDef for Darter",
       "Details" : "",
       "Icon" : ""
    },
-   "MaxWalkDistance" : 285.0,
-   "MaxSprintDistance" : 470.0,
+   "MaxWalkDistance" : 190.0,
+   "MaxSprintDistance" : 315.0,
    "WalkVelocity" : 20.0,
    "RunVelocity" : 28.0,
    "SprintVelocity" : 31.0,

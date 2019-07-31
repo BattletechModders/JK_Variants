@@ -2,8 +2,9 @@
     "Name": "JK_VariantsCampaign",
     "Enabled": true,
 
-	"Version": "1.4.0.4",
-	"PackagedOn": "2019-02-20T09:45:00Z",
+	"Version": "1.6.2.3",
+	"PackagedOn": "2019-07-29T16:45:00Z",
+
     "Description": "Adds 75+ 'Mech Variants, 45+ Vehicle Variants, 9 Weapons, 1 Ammo Type and 4 Upgrades - usable in both Skirmish mode basic shopdef for ammo.  Includes 3 new MG variants from Dr. Bansai to expand on MGs further.",
     "Author": "Justin Kase, with GenTask's Command Console Variants",
     "Website": "https://www.nexusmods.com/battletech/mods/18",
@@ -19,6 +20,8 @@
 		{ "Type": "MechDef", "Path": "mech", "AddToDB": false },
 		{ "Type": "VehicleDef", "Path": "vehicle", "AddToDB": false },
 		{ "Type": "VehicleChassisDef", "Path": "vehicleChassis", "AddToDB": false },
-		{ "Type": "ItemCollectionDef", "Path": "itemCollections", "AddToDB": false }
+		{ "Type": "ItemCollectionDef", "Path": "itemCollections", "AddToDB": false },
+		{ "Type": "ChassisDef", "Path": "meleeFixes-chassisMerge", "AddToDB": false },
+		{ "Type": "MechDef", "Path": "meleeFixes-mechMerge", "AddToDB": false }
     ]
 }

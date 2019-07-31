@@ -31,13 +31,13 @@
     "Description" : {
         "Cost" : 20000,
         "Rarity" : 0,
-        "Purchasable" : true,
+        "Purchasable" : false,
         "Manufacturer" : "Pattern Alpha",
         "Model" : "Single Short-Range Missile Launcher",
         "UIName" : "SRM2 - 1 Shot",
         "Id" : "Weapon_SRM_SRM2_OneShot",
         "Name" : "SRM2 - 1 Shot",
-        "Details" : "A single shot version of the SRM2 launcher, which can be hooked up to additional feeds if needed.",
+        "Details" : "A single shot version of the SRM2 launcher, which can be hooked up to additional ammo feeds if needed.",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },
     "BonusValueA" : "",

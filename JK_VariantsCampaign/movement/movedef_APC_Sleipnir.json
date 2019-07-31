@@ -1,12 +1,12 @@
 {
    "Description" : {
-      "Id" : "movedef_JEdgar",
-      "Name" : "MovementCapabilitiesDef for J Edgar Hovercraft",
+      "Id" : "movedef_APC_Sleipnir",
+      "Name" : "MovementCapabilitiesDef for Vargr APC",
       "Details" : "",
       "Icon" : ""
    },
-   "MaxWalkDistance" : 285.0,
-   "MaxSprintDistance" : 470.0,
+   "MaxWalkDistance" : 140.0,
+   "MaxSprintDistance" : 240.0,
    "WalkVelocity" : 20.0,
    "RunVelocity" : 28.0,
    "SprintVelocity" : 31.0,
