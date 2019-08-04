@@ -30,7 +30,7 @@
     "ChassisID": "chassisdef_hatchetman_HCT-3NH",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4500000,
+        "Cost": 4600000,
         "Rarity": 1,
         "Purchasable": true,
         "Manufacturer": null,
@@ -41,7 +41,7 @@
         "Details": "The Hatchetman 3NH (no Hatchet) is a deviation from the standard Hatchetman concept.  While it retains the appearance of its namesake Hatchet on its right arm, it does not possess the specialized actuators or structural reinforcements of the 3F model and therefore isn't nearly as dangerous to face in melee combat.  It uses the extra space to add 3 additional Heat Sinks and it appears that the designers had intended to allow for Anti-Personnel weaponry to be mounted in the arms, though never followed through with their intentions.  It is still a very under-armored and slow moving 'Mech for its weight class, so it must rely on cover whenever possible.",
         "Icon": "uixTxrIcon_hatchetman"
     },
-    "simGameMechPartCost": 450000,
+    "simGameMechPartCost": 460000,
     "Version": 1,
     "Locations": [
         {
