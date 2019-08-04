@@ -4,7 +4,7 @@
 
     "DependsOn": [ "JK_VariantsCampaign" ],
 
-	"Version": "1.6.2.3",
+	"Version": "1.6.2.4",
     "PackagedOn": "2019-07-29T16:45:00Z",
     
     "OptionallyDependsOn": [ "CommunityBundles" ],
